@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document Search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Document Search</h1>
+        <form method="POST">
+            <input type="text" name="query" placeholder="Enter your query..." required>
+            <button type="submit">Search</button>
+        </form>
+        <a href="{{ url_for('show_index') }}" class="view-index">View TF-IDF Index</a>
+    </div>
+</body>
+</html>

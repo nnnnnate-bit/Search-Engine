@@ -1,0 +1,2789 @@
+Document,Term,Term Frequency,Document Length,Inverse Document Frequency,TF-IDF Weight
+Climate_Change_in_the_World.txt#doc0,climat,34,752,2.0794,70.701
+Climate_Change_in_the_World.txt#doc0,chang,19,752,0.47,8.9301
+Climate_Change_in_the_World.txt#doc0,world,2,752,0.47,0.94
+Climate_Change_in_the_World.txt#doc0,1,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,refer,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,signific,2,752,0.1335,0.2671
+Climate_Change_in_the_World.txt#doc0,alter,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,global,8,752,0.47,3.76
+Climate_Change_in_the_World.txt#doc0,weather,5,752,2.0794,10.3972
+Climate_Change_in_the_World.txt#doc0,pattern,4,752,1.3863,5.5452
+Climate_Change_in_the_World.txt#doc0,particularli,2,752,0.47,0.94
+Climate_Change_in_the_World.txt#doc0,rise,5,752,0.6931,3.4657
+Climate_Change_in_the_World.txt#doc0,averag,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,temperatur,5,752,2.0794,10.3972
+Climate_Change_in_the_World.txt#doc0,decad,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,centuri,2,752,0.6931,1.3863
+Climate_Change_in_the_World.txt#doc0,earth,5,752,2.0794,10.3972
+Climate_Change_in_the_World.txt#doc0,natur,2,752,0.6931,1.3863
+Climate_Change_in_the_World.txt#doc0,fluctuat,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,throughout,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,histori,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,current,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,trend,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,warm,4,752,2.0794,8.3178
+Climate_Change_in_the_World.txt#doc0,larg,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,driven,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,human,3,752,0.6931,2.0794
+Climate_Change_in_the_World.txt#doc0,activ,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,burn,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,fossil,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,fuel,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,deforest,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,industri,3,752,0.6931,2.0794
+Climate_Change_in_the_World.txt#doc0,emiss,5,752,2.0794,10.3972
+Climate_Change_in_the_World.txt#doc0,increas,4,752,0.47,1.88
+Climate_Change_in_the_World.txt#doc0,concentr,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,greenhous,4,752,2.0794,8.3178
+Climate_Change_in_the_World.txt#doc0,gase,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,like,5,752,0.2877,1.4384
+Climate_Change_in_the_World.txt#doc0,carbon,6,752,2.0794,12.4766
+Climate_Change_in_the_World.txt#doc0,dioxid,3,752,2.0794,6.2383
+Climate_Change_in_the_World.txt#doc0,methan,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,atmospher,3,752,2.0794,6.2383
+Climate_Change_in_the_World.txt#doc0,trap,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,heat,3,752,2.0794,6.2383
+Climate_Change_in_the_World.txt#doc0,disruptin,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,2,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,revolut,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,mark,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,turn,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,point,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,trajectori,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,sinc,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,18th,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,largescal,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,combust,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,coal,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,oil,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,ga,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,releas,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,massiv,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,amount,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,result,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,effect,3,752,1.3863,4.1589
+Climate_Change_in_the_World.txt#doc0,caus,2,752,0.9808,1.9617
+Climate_Change_in_the_World.txt#doc0,surfac,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,1°c,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,preindustri,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,level,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,rapid,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,observ,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,past,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,10000,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,year,1,752,0.2877,0.2877
+Climate_Change_in_the_World.txt#doc0,3,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,one,2,752,0.47,0.94
+Climate_Change_in_the_World.txt#doc0,visibl,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,impact,5,752,0.9808,4.9041
+Climate_Change_in_the_World.txt#doc0,melt,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,polar,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,ice,3,752,2.0794,6.2383
+Climate_Change_in_the_World.txt#doc0,cap,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,glacier,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,arctic,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,sea,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,shrink,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,alarm,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,rate,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,greenland,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,antarct,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,sheet,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,lose,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,mass,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,contribut,3,752,0.9808,2.9425
+Climate_Change_in_the_World.txt#doc0,pose,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,threat,2,752,0.6931,1.3863
+Climate_Change_in_the_World.txt#doc0,coastal,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,citi,3,752,1.3863,4.1589
+Climate_Change_in_the_World.txt#doc0,small,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,island,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,nation,5,752,0.2877,1.4384
+Climate_Change_in_the_World.txt#doc0,around,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,globe,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,flood,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,eros,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,saltwat,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,intrus,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,freshwat,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,system,6,752,0.1335,0.8012
+Climate_Change_in_the_World.txt#doc0,grow,3,752,0.6931,2.0794
+Climate_Change_in_the_World.txt#doc0,concern,1,752,0.2877,0.2877
+Climate_Change_in_the_World.txt#doc0,mani,3,752,0.47,1.41
+Climate_Change_in_the_World.txt#doc0,commun,4,752,0.47,1.88
+Climate_Change_in_the_World.txt#doc0,4,1,752,0.2877,0.2877
+Climate_Change_in_the_World.txt#doc0,intensifi,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,event,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,worldwid,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,heatwav,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,becom,3,752,0.2877,0.863
+Climate_Change_in_the_World.txt#doc0,frequent,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,sever,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,drought,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,last,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,longer,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,hurrican,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,strength,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,extrem,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,disrupt,2,752,0.9808,1.9617
+Climate_Change_in_the_World.txt#doc0,ecosystem,4,752,1.3863,5.5452
+Climate_Change_in_the_World.txt#doc0,also,7,752,0.0,0.0
+Climate_Change_in_the_World.txt#doc0,profound,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,health,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,agricultur,5,752,0.6931,3.4657
+Climate_Change_in_the_World.txt#doc0,infrastructur,4,752,0.47,1.88
+Climate_Change_in_the_World.txt#doc0,develop,3,752,0.1335,0.4006
+Climate_Change_in_the_World.txt#doc0,countri,4,752,0.47,1.88
+Climate_Change_in_the_World.txt#doc0,often,2,752,0.2877,0.5754
+Climate_Change_in_the_World.txt#doc0,least,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,equip,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,deal,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,disproportion,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,affect,2,752,0.9808,1.9617
+Climate_Change_in_the_World.txt#doc0,5,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,transform,1,752,0.2877,0.2877
+Climate_Change_in_the_World.txt#doc0,threaten,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,biodivers,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,speci,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,unabl,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,adapt,4,752,2.0794,8.3178
+Climate_Change_in_the_World.txt#doc0,quickli,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,enough,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,condit,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,lead,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,shift,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,habitat,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,rang,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,extinct,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,risk,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,coral,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,reef,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,support,2,752,0.47,0.94
+Climate_Change_in_the_World.txt#doc0,vast,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,array,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,marin,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,life,2,752,0.9808,1.9617
+Climate_Change_in_the_World.txt#doc0,suffer,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,bleach,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,due,2,752,0.9808,1.9617
+Climate_Change_in_the_World.txt#doc0,warmer,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,ocean,3,752,2.0794,6.2383
+Climate_Change_in_the_World.txt#doc0,acidif,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,excess,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,6,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,highli,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,vulner,2,752,0.9808,1.9617
+Climate_Change_in_the_World.txt#doc0,precipit,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,soil,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,degrad,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,crop,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,yield,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,food,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,secur,1,752,0.2877,0.2877
+Climate_Change_in_the_World.txt#doc0,region,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,season,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,shorter,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,stapl,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,wheat,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,maiz,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,rice,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,face,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,lower,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,product,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,challeng,2,752,0.1335,0.2671
+Climate_Change_in_the_World.txt#doc0,compound,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,popul,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,demand,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,7,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,seriou,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,implic,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,stress,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,respiratori,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,disord,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,spread,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,vectorborn,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,diseas,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,malaria,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,dengu,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,common,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,poor,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,air,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,qualiti,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,exacerb,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,wildfir,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,smoke,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,pollut,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,major,2,752,0.47,0.94
+Climate_Change_in_the_World.txt#doc0,urban,3,752,1.3863,4.1589
+Climate_Change_in_the_World.txt#doc0,area,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,access,1,752,0.1335,0.1335
+Climate_Change_in_the_World.txt#doc0,clean,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,water,2,752,0.9808,1.9617
+Climate_Change_in_the_World.txt#doc0,adequ,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,nutrit,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,environment,3,752,0.6931,2.0794
+Climate_Change_in_the_World.txt#doc0,deterior,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,8,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,play,4,752,0.6931,2.7726
+Climate_Change_in_the_World.txt#doc0,crucial,2,752,0.6931,1.3863
+Climate_Change_in_the_World.txt#doc0,role,4,752,0.6931,2.7726
+Climate_Change_in_the_World.txt#doc0,regul,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,’,2,752,0.47,0.94
+Climate_Change_in_the_World.txt#doc0,experienc,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,deoxygen,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,fisheri,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,influenc,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,may,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,potenti,2,752,0.9808,1.9617
+Climate_Change_in_the_World.txt#doc0,farreach,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,consequ,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,stabil,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,9,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,issu,2,752,0.6931,1.3863
+Climate_Change_in_the_World.txt#doc0,social,2,752,0.1335,0.2671
+Climate_Change_in_the_World.txt#doc0,econom,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,displac,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,sealevel,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,conflict,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,resourc,3,752,0.6931,2.0794
+Climate_Change_in_the_World.txt#doc0,creat,2,752,0.6931,1.3863
+Climate_Change_in_the_World.txt#doc0,refuge,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,economi,2,752,0.47,0.94
+Climate_Change_in_the_World.txt#doc0,depend,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,fish,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,tourism,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,loss,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,cost,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,disast,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,recoveri,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,strain,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,budget,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,intern,3,752,0.6931,2.0794
+Climate_Change_in_the_World.txt#doc0,aid,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,10,1,752,0.1335,0.1335
+Climate_Change_in_the_World.txt#doc0,address,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,requir,2,752,0.6931,1.3863
+Climate_Change_in_the_World.txt#doc0,coordin,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,action,4,752,1.3863,5.5452
+Climate_Change_in_the_World.txt#doc0,pari,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,agreement,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,sign,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,2015,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,repres,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,landmark,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,commit,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,limit,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,well,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,2°c,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,effort,2,752,0.6931,1.3863
+Climate_Change_in_the_World.txt#doc0,restrict,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,15°c,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,submit,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,determin,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,ndc,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,outlin,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,plan,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,reduc,4,752,0.2877,1.1507
+Climate_Change_in_the_World.txt#doc0,11,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,transit,2,752,0.9808,1.9617
+Climate_Change_in_the_World.txt#doc0,renew,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,energi,4,752,2.0794,8.3178
+Climate_Change_in_the_World.txt#doc0,sourc,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,key,3,752,0.6931,2.0794
+Climate_Change_in_the_World.txt#doc0,strategi,2,752,0.47,0.94
+Climate_Change_in_the_World.txt#doc0,mitig,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,solar,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,wind,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,hydroelectr,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,geotherm,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,power,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,offer,3,752,0.6931,2.0794
+Climate_Change_in_the_World.txt#doc0,cleaner,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,altern,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,invest,2,752,0.2877,0.5754
+Climate_Change_in_the_World.txt#doc0,phase,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,plant,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,promot,2,752,0.6931,1.3863
+Climate_Change_in_the_World.txt#doc0,electr,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,vehicl,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,12,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,effici,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,conserv,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,footprint,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,retrofit,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,build,3,752,0.6931,2.0794
+Climate_Change_in_the_World.txt#doc0,modern,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,transport,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,encourag,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,behavior,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,use,6,752,0.0,0.0
+Climate_Change_in_the_World.txt#doc0,public,2,752,0.2877,0.5754
+Climate_Change_in_the_World.txt#doc0,meat,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,consumpt,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,significantli,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,13,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,forest,2,752,2.0794,4.1589
+Climate_Change_in_the_World.txt#doc0,vital,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,fight,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,absorb,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,protect,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,exist,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,restor,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,land,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,sustain,5,752,0.9808,4.9041
+Climate_Change_in_the_World.txt#doc0,practic,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,essenti,2,752,0.47,0.94
+Climate_Change_in_the_World.txt#doc0,maintain,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,sink,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,howev,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,log,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,continu,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,14,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,technolog,2,752,0.1335,0.2671
+Climate_Change_in_the_World.txt#doc0,innov,2,752,0.1335,0.2671
+Climate_Change_in_the_World.txt#doc0,promis,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,solut,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,captur,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,storag,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,cc,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,climatesmart,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,advanc,1,752,0.1335,0.1335
+Climate_Change_in_the_World.txt#doc0,predict,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,help,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,cope,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,research,1,752,0.2877,0.2877
+Climate_Change_in_the_World.txt#doc0,geoengin,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,explor,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,method,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,artifici,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,cool,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,planet,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,though,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,approach,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,remain,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,controversi,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,15,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,financ,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,critic,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,fund,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,need,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,capacitybuild,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,prepared,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,green,3,752,1.3863,4.1589
+Climate_Change_in_the_World.txt#doc0,mechan,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,aim,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,facilit,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,equit,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,distribut,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,ensur,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,particip,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,16,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,educ,1,752,0.2877,0.2877
+Climate_Change_in_the_World.txt#doc0,awar,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,drive,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,engag,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,polici,2,752,0.6931,1.3863
+Climate_Change_in_the_World.txt#doc0,school,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,media,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,civil,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,societi,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,organ,1,752,0.2877,0.2877
+Climate_Change_in_the_World.txt#doc0,inform,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,citizen,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,empow,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,take,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,youth,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,movement,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,friday,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,futur,2,752,0.47,0.94
+Climate_Change_in_the_World.txt#doc0,highlight,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,import,2,752,0.6931,1.3863
+Climate_Change_in_the_World.txt#doc0,intergener,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,justic,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,17,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,resili,3,752,0.9808,2.9425
+Climate_Change_in_the_World.txt#doc0,compon,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,implement,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,code,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,enhanc,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,drainag,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,space,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,combat,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,smart,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,data,1,752,0.2877,0.2877
+Climate_Change_in_the_World.txt#doc0,monitor,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,optim,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,18,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,indigen,2,752,1.3863,2.7726
+Climate_Change_in_the_World.txt#doc0,tradit,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,knowledg,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,valuabl,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,insight,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,live,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,manag,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,deep,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,understand,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,local,1,752,0.47,0.47
+Climate_Change_in_the_World.txt#doc0,recogn,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,respect,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,right,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,aspect,2,752,0.9808,1.9617
+Climate_Change_in_the_World.txt#doc0,inclus,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,govern,2,752,0.2877,0.5754
+Climate_Change_in_the_World.txt#doc0,19,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,busi,1,752,0.2877,0.2877
+Climate_Change_in_the_World.txt#doc0,compani,1,752,0.2877,0.2877
+Climate_Change_in_the_World.txt#doc0,set,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,sciencebas,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,target,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,suppli,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,chain,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,adopt,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,circular,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,model,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,esg,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,criteria,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,increasingli,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,investor,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,assess,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,corpor,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,respons,1,752,0.1335,0.1335
+Climate_Change_in_the_World.txt#doc0,20,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,conclus,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,defin,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,time,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,widespread,1,752,0.9808,0.9808
+Climate_Change_in_the_World.txt#doc0,interconnect,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,everi,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,urgent,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,collect,1,752,0.6931,0.6931
+Climate_Change_in_the_World.txt#doc0,levels—loc,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,embrac,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,cooper,1,752,1.3863,1.3863
+Climate_Change_in_the_World.txt#doc0,equiti,1,752,2.0794,2.0794
+Climate_Change_in_the_World.txt#doc0,gener,1,752,0.1335,0.1335
+Climate_Change_in_the_World.txt#doc0,come,1,752,1.3863,1.3863
+cybersecurity.txt#doc1,comput,16,693,0.6931,11.0904
+cybersecurity.txt#doc1,secur,22,693,0.2877,6.329
+cybersecurity.txt#doc1,also,3,693,0.0,0.0
+cybersecurity.txt#doc1,cybersecur,5,693,0.6931,3.4657
+cybersecurity.txt#doc1,digit,3,693,0.2877,0.863
+cybersecurity.txt#doc1,inform,7,693,0.47,3.29
+cybersecurity.txt#doc1,technolog,3,693,0.1335,0.4006
+cybersecurity.txt#doc1,subdisciplin,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,within,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,field,3,693,0.9808,2.9425
+cybersecurity.txt#doc1,consist,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,protect,2,693,0.6931,1.3863
+cybersecurity.txt#doc1,softwar,4,693,0.6931,2.7726
+cybersecurity.txt#doc1,system,10,693,0.1335,1.3353
+cybersecurity.txt#doc1,network,6,693,0.47,2.82
+cybersecurity.txt#doc1,threat,6,693,0.6931,4.1589
+cybersecurity.txt#doc1,lead,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,unauthor,3,693,2.0794,6.2383
+cybersecurity.txt#doc1,disclosur,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,theft,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,damag,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,hardwar,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,data,1,693,0.2877,0.2877
+cybersecurity.txt#doc1,well,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,disrupt,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,misdirect,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,servic,4,693,0.47,1.88
+cybersecurity.txt#doc1,provid,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,signific,3,693,0.1335,0.4006
+cybersecurity.txt#doc1,stem,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,expand,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,relianc,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,internet,8,693,0.47,3.76
+cybersecurity.txt#doc1,wireless,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,standard,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,import,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,amplifi,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,growth,1,693,0.2877,0.2877
+cybersecurity.txt#doc1,smart,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,devic,3,693,0.9808,2.9425
+cybersecurity.txt#doc1,includ,2,693,0.9808,1.9617
+cybersecurity.txt#doc1,smartphon,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,televis,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,variou,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,constitut,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,thing,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,iot,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,emerg,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,one,5,693,0.47,2.35
+cybersecurity.txt#doc1,new,1,693,0.47,0.47
+cybersecurity.txt#doc1,challeng,1,693,0.1335,0.1335
+cybersecurity.txt#doc1,face,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,contemporari,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,world,1,693,0.47,0.47
+cybersecurity.txt#doc1,due,2,693,0.9808,1.9617
+cybersecurity.txt#doc1,complex,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,societi,1,693,0.47,0.47
+cybersecurity.txt#doc1,support,1,693,0.47,0.47
+cybersecurity.txt#doc1,particularli,1,693,0.47,0.47
+cybersecurity.txt#doc1,crucial,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,govern,1,693,0.2877,0.2877
+cybersecurity.txt#doc1,largescal,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,farreach,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,physic,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,effect,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,power,1,693,0.47,0.47
+cybersecurity.txt#doc1,distribut,3,693,1.3863,4.1589
+cybersecurity.txt#doc1,elect,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,financ,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,although,3,693,0.6931,2.0794
+cybersecurity.txt#doc1,mani,4,693,0.47,1.88
+cybersecurity.txt#doc1,aspect,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,involv,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,electron,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,password,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,encrypt,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,measur,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,metal,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,lock,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,still,3,693,1.3863,4.1589
+cybersecurity.txt#doc1,use,10,693,0.0,0.0
+cybersecurity.txt#doc1,prevent,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,tamper,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,perfect,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,subset,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,therefor,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,complet,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,align,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,converg,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,schema,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,vulner,9,693,0.9808,8.8275
+cybersecurity.txt#doc1,refer,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,flaw,3,693,2.0794,6.2383
+cybersecurity.txt#doc1,structur,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,execut,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,function,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,intern,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,oversight,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,compromis,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,discov,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,document,3,693,2.0794,6.2383
+cybersecurity.txt#doc1,common,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,exposur,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,cve,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,databas,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,exploit,4,693,2.0794,8.3178
+cybersecurity.txt#doc1,least,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,work,2,693,0.47,0.94
+cybersecurity.txt#doc1,attack,12,693,1.3863,16.6355
+cybersecurity.txt#doc1,exist,2,693,0.9808,1.9617
+cybersecurity.txt#doc1,actor,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,malici,3,693,2.0794,6.2383
+cybersecurity.txt#doc1,seek,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,known,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,research,2,693,0.2877,0.5754
+cybersecurity.txt#doc1,reverseengin,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,hunt,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,autom,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,tool,5,693,0.6931,3.4657
+cybersecurity.txt#doc1,custom,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,script,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,peopl,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,parti,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,cyber,4,693,1.3863,5.5452
+cybersecurity.txt#doc1,howev,3,693,0.6931,2.0794
+cybersecurity.txt#doc1,differ,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,group,4,693,2.0794,8.3178
+cybersecurity.txt#doc1,like,4,693,0.2877,1.1507
+cybersecurity.txt#doc1,experi,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,type,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,other,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,april,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,2023,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,unit,4,693,0.9808,3.9233
+cybersecurity.txt#doc1,kingdom,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,depart,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,scienc,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,innov,1,693,0.1335,0.1335
+cybersecurity.txt#doc1,releas,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,report,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,previou,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,12,2,693,0.47,0.94
+cybersecurity.txt#doc1,month,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,survey,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,2263,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,uk,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,busi,7,693,0.2877,2.0138
+cybersecurity.txt#doc1,1174,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,regist,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,chariti,3,693,2.0794,6.2383
+cybersecurity.txt#doc1,554,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,educ,1,693,0.2877,0.2877
+cybersecurity.txt#doc1,institut,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,found,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,32,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,24,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,overal,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,recal,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,breach,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,last,3,693,0.9808,2.9425
+cybersecurity.txt#doc1,figur,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,much,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,higher,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,medium,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,59,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,larg,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,69,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,highincom,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,£500000,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,annual,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,incom,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,56,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,yet,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,often,3,693,0.2877,0.863
+cybersecurity.txt#doc1,victim,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,sinc,3,693,1.3863,4.1589
+cybersecurity.txt#doc1,larger,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,compani,1,693,0.2877,0.2877
+cybersecurity.txt#doc1,gener,1,693,0.1335,0.1335
+cybersecurity.txt#doc1,improv,1,693,0.47,0.47
+cybersecurity.txt#doc1,decad,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,small,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,midsiz,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,smb,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,becom,2,693,0.2877,0.5754
+cybersecurity.txt#doc1,increasingli,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,advanc,1,693,0.1335,0.1335
+cybersecurity.txt#doc1,defend,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,affect,2,693,0.9808,1.9617
+cybersecurity.txt#doc1,malwar,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,ransomwar,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,phish,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,maninthemiddl,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,denialof,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,do,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,normal,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,user,2,693,0.6931,1.3863
+cybersecurity.txt#doc1,untarget,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,cyberattack,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,indiscrimin,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,target,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,possibl,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,techniqu,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,take,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,advantag,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,open,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,strategi,1,693,0.47,0.47
+cybersecurity.txt#doc1,mostli,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,water,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,hole,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,scan,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,arriv,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,transform,1,693,0.2877,0.2877
+cybersecurity.txt#doc1,initi,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,recent,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,year,3,693,0.2877,0.863
+cybersecurity.txt#doc1,notion,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,familiar,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,subject,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,profession,2,693,0.9808,1.9617
+cybersecurity.txt#doc1,person,1,693,0.2877,0.2877
+cybersecurity.txt#doc1,live,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,present,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,60,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,chang,1,693,0.47,0.47
+cybersecurity.txt#doc1,1970,3,693,0.9808,2.9425
+cybersecurity.txt#doc1,1980,2,693,0.6931,1.3863
+cybersecurity.txt#doc1,mainli,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,limit,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,academia,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,concept,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,increas,1,693,0.47,0.47
+cybersecurity.txt#doc1,connect,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,virus,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,intrus,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,began,3,693,0.9808,2.9425
+cybersecurity.txt#doc1,spread,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,1990,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,2000,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,mark,1,693,0.47,0.47
+cybersecurity.txt#doc1,institution,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,organ,2,693,0.2877,0.5754
+cybersecurity.txt#doc1,denial,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,led,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,formal,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,disciplin,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,1967,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,session,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,willi,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,ware,3,693,2.0794,6.2383
+cybersecurity.txt#doc1,spring,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,joint,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,confer,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,later,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,public,3,693,0.2877,0.863
+cybersecurity.txt#doc1,foundat,1,693,0.47,0.47
+cybersecurity.txt#doc1,moment,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,histori,1,693,0.47,0.47
+cybersecurity.txt#doc1,straddl,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,intersect,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,materi,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,cultur,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,polit,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,social,1,693,0.1335,0.1335
+cybersecurity.txt#doc1,concern,1,693,0.2877,0.2877
+cybersecurity.txt#doc1,1977,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,nist,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,introduc,1,693,0.47,0.47
+cybersecurity.txt#doc1,cia,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,triad,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,confidenti,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,integr,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,avail,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,clear,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,simpl,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,way,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,describ,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,key,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,goal,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,relev,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,elabor,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,framework,1,693,0.47,0.47
+cybersecurity.txt#doc1,propos,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,grave,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,develop,2,693,0.1335,0.2671
+cybersecurity.txt#doc1,easili,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,identifi,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,came,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,insid,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,gain,3,693,0.6931,2.0794
+cybersecurity.txt#doc1,access,2,693,0.1335,0.2671
+cybersecurity.txt#doc1,sensit,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,file,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,earli,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,financi,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,second,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,half,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,establish,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,firm,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,ibm,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,start,2,693,1.3863,2.7726
+cybersecurity.txt#doc1,offer,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,commerci,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,control,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,product,1,693,0.47,0.47
+cybersecurity.txt#doc1,earliest,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,exampl,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,worm,3,693,2.0794,6.2383
+cybersecurity.txt#doc1,creeper,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,written,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,bob,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,thoma,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,bbn,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,propag,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,arpanet,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,1971,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,program,2,693,0.6931,1.3863
+cybersecurity.txt#doc1,pure,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,experiment,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,natur,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,carri,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,payload,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,reaper,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,creat,2,693,0.6931,1.3863
+cybersecurity.txt#doc1,ray,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,tomlinson,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,1972,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,destroy,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,septemb,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,1986,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,june,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,1987,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,german,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,hacker,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,perform,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,first,3,693,0.9808,2.9425
+cybersecurity.txt#doc1,case,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,espionag,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,hack,3,693,2.0794,6.2383
+cybersecurity.txt#doc1,american,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,defens,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,contractor,3,693,2.0794,6.2383
+cybersecurity.txt#doc1,univers,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,militari,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,base,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,sold,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,gather,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,soviet,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,kgb,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,marku,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,hess,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,arrest,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,29,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,convict,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,along,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,two,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,coconspir,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,15,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,feb,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,1988,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,call,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,morri,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,via,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,mainstream,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,media,1,693,0.47,0.47
+cybersecurity.txt#doc1,attent,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,netscap,3,693,2.0794,6.2383
+cybersecurity.txt#doc1,protocol,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,ssl,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,shortli,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,nation,2,693,0.2877,0.5754
+cybersecurity.txt#doc1,center,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,supercomput,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,applic,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,ncsa,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,launch,2,693,0.9808,1.9617
+cybersecurity.txt#doc1,mosaic,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,10,2,693,0.1335,0.2671
+cybersecurity.txt#doc1,web,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,browser,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,1993,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,version,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,readi,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,1994,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,never,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,seriou,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,1995,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,20,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,agenc,3,693,0.6931,2.0794
+cybersecurity.txt#doc1,nsa,4,693,2.0794,8.3178
+cybersecurity.txt#doc1,respons,1,693,0.1335,0.1335
+cybersecurity.txt#doc1,us,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,collect,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,foreign,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,intellig,1,693,0.47,0.47
+cybersecurity.txt#doc1,analyz,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,commonli,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,configur,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,find,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,offens,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,purpos,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,competitor,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,state,3,693,0.9808,2.9425
+cybersecurity.txt#doc1,clickandshoot,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,close,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,alli,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,eventu,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,made,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,adversari,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,2016,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,russia,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,north,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,korea,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,employe,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,recruit,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,high,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,salari,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,anxiou,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,compet,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,cyberwarfar,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,2007,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,israel,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,microsoft,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,window,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,oper,1,693,0.47,0.47
+cybersecurity.txt#doc1,equip,1,693,0.6931,0.6931
+cybersecurity.txt#doc1,iran,2,693,2.0794,4.1589
+cybersecurity.txt#doc1,refin,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,nuclear,1,693,2.0794,2.0794
+cybersecurity.txt#doc1,respond,1,693,0.9808,0.9808
+cybersecurity.txt#doc1,heavili,1,693,1.3863,1.3863
+cybersecurity.txt#doc1,invest,1,693,0.2877,0.2877
+cybersecurity.txt#doc1,capabl,1,693,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,cybersecur,13,397,0.6931,9.0109
+Cybersecurity_in_Ethiopia.txt#doc2,ethiopia,11,397,1.3863,15.2492
+Cybersecurity_in_Ethiopia.txt#doc2,1,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,increasingli,2,397,0.6931,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,critic,4,397,0.9808,3.9233
+Cybersecurity_in_Ethiopia.txt#doc2,issu,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,nation,4,397,0.2877,1.1507
+Cybersecurity_in_Ethiopia.txt#doc2,around,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,world,2,397,0.47,0.94
+Cybersecurity_in_Ethiopia.txt#doc2,except,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,countri,4,397,0.47,1.88
+Cybersecurity_in_Ethiopia.txt#doc2,continu,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,adopt,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,digit,11,397,0.2877,3.1645
+Cybersecurity_in_Ethiopia.txt#doc2,technolog,1,397,0.1335,0.1335
+Cybersecurity_in_Ethiopia.txt#doc2,risk,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,challeng,3,397,0.1335,0.4006
+Cybersecurity_in_Ethiopia.txt#doc2,associ,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,cyber,5,397,1.3863,6.9315
+Cybersecurity_in_Ethiopia.txt#doc2,threat,5,397,0.6931,3.4657
+Cybersecurity_in_Ethiopia.txt#doc2,grow,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,parallel,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,2,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,recent,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,year,1,397,0.2877,0.2877
+Cybersecurity_in_Ethiopia.txt#doc2,made,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,signific,2,397,0.1335,0.2671
+Cybersecurity_in_Ethiopia.txt#doc2,stride,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,expand,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,infrastructur,4,397,0.47,1.88
+Cybersecurity_in_Ethiopia.txt#doc2,initi,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,like,2,397,0.2877,0.5754
+Cybersecurity_in_Ethiopia.txt#doc2,2025,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,govern,4,397,0.2877,1.1507
+Cybersecurity_in_Ethiopia.txt#doc2,aim,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,transform,2,397,0.2877,0.5754
+Cybersecurity_in_Ethiopia.txt#doc2,economi,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,technologydriven,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,develop,4,397,0.1335,0.5341
+Cybersecurity_in_Ethiopia.txt#doc2,3,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,growth,1,397,0.2877,0.2877
+Cybersecurity_in_Ethiopia.txt#doc2,internet,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,access,1,397,0.1335,0.1335
+Cybersecurity_in_Ethiopia.txt#doc2,mobil,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,bank,3,397,0.9808,2.9425
+Cybersecurity_in_Ethiopia.txt#doc2,egovern,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,platform,2,397,0.9808,1.9617
+Cybersecurity_in_Ethiopia.txt#doc2,improv,3,397,0.47,1.41
+Cybersecurity_in_Ethiopia.txt#doc2,servic,3,397,0.47,1.41
+Cybersecurity_in_Ethiopia.txt#doc2,deliveri,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,econom,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,opportun,2,397,1.3863,2.7726
+Cybersecurity_in_Ethiopia.txt#doc2,howev,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,expans,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,also,4,397,0.0,0.0
+Cybersecurity_in_Ethiopia.txt#doc2,introduc,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,new,2,397,0.47,0.94
+Cybersecurity_in_Ethiopia.txt#doc2,vulner,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,4,1,397,0.2877,0.2877
+Cybersecurity_in_Ethiopia.txt#doc2,ethiopian,3,397,1.3863,4.1589
+Cybersecurity_in_Ethiopia.txt#doc2,institut,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,experienc,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,incid,2,397,2.0794,4.1589
+Cybersecurity_in_Ethiopia.txt#doc2,websit,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,defac,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,email,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,phish,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,attack,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,ransomwar,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,may,2,397,0.6931,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,seem,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,minor,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,expos,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,weak,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,defens,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,5,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,public,3,397,0.2877,0.863
+Cybersecurity_in_Ethiopia.txt#doc2,awar,2,397,1.3863,2.7726
+Cybersecurity_in_Ethiopia.txt#doc2,remain,3,397,0.6931,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,rel,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,low,2,397,1.3863,2.7726
+Cybersecurity_in_Ethiopia.txt#doc2,mani,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,user,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,unfamiliar,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,basic,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,practic,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,use,1,397,0.0,0.0
+Cybersecurity_in_Ethiopia.txt#doc2,strong,2,397,2.0794,4.1589
+Cybersecurity_in_Ethiopia.txt#doc2,password,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,updat,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,softwar,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,avoid,2,397,2.0794,4.1589
+Cybersecurity_in_Ethiopia.txt#doc2,suspici,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,link,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,6,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,lack,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,profession,2,397,0.9808,1.9617
+Cybersecurity_in_Ethiopia.txt#doc2,anoth,2,397,0.9808,1.9617
+Cybersecurity_in_Ethiopia.txt#doc2,major,2,397,0.47,0.94
+Cybersecurity_in_Ethiopia.txt#doc2,concern,1,397,0.2877,0.2877
+Cybersecurity_in_Ethiopia.txt#doc2,face,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,shortag,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,train,2,397,0.9808,1.9617
+Cybersecurity_in_Ethiopia.txt#doc2,personnel,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,secur,7,397,0.2877,2.0138
+Cybersecurity_in_Ethiopia.txt#doc2,system,4,397,0.1335,0.5341
+Cybersecurity_in_Ethiopia.txt#doc2,respond,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,educ,2,397,0.2877,0.5754
+Cybersecurity_in_Ethiopia.txt#doc2,other,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,7,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,2021,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,pass,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,proclam,2,397,2.0794,4.1589
+Cybersecurity_in_Ethiopia.txt#doc2,establish,3,397,0.9808,2.9425
+Cybersecurity_in_Ethiopia.txt#doc2,legal,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,framework,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,combat,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,cybercrim,2,397,2.0794,4.1589
+Cybersecurity_in_Ethiopia.txt#doc2,protect,3,397,0.6931,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,law,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,mark,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,import,2,397,0.6931,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,step,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,formal,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,effort,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,8,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,inform,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,network,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,administr,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,insa,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,lead,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,agenc,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,manag,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,coordin,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,respons,2,397,0.1335,0.2671
+Cybersecurity_in_Ethiopia.txt#doc2,9,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,despit,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,measur,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,matur,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,compar,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,global,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,standard,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,much,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,work,2,397,0.47,0.94
+Cybersecurity_in_Ethiopia.txt#doc2,build,2,397,0.6931,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,privaci,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,trust,2,397,1.3863,2.7726
+Cybersecurity_in_Ethiopia.txt#doc2,10,1,397,0.1335,0.1335
+Cybersecurity_in_Ethiopia.txt#doc2,sector,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,healthcar,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,reliant,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,make,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,prime,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,target,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,cybercrimin,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,seek,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,financi,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,gain,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,polit,2,397,0.9808,1.9617
+Cybersecurity_in_Ethiopia.txt#doc2,disrupt,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,11,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,becom,2,397,0.2877,0.5754
+Cybersecurity_in_Ethiopia.txt#doc2,organ,1,397,0.2877,0.2877
+Cybersecurity_in_Ethiopia.txt#doc2,sophist,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,actor,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,domest,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,intern,2,397,0.6931,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,back,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,statelevel,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,resourc,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,12,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,begun,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,cooper,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,region,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,partner,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,share,2,397,0.6931,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,intellig,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,resili,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,collabor,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,essenti,2,397,0.47,0.94
+Cybersecurity_in_Ethiopia.txt#doc2,today,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,’,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,interconnect,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,13,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,crucial,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,readi,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,must,3,397,0.9808,2.9425
+Cybersecurity_in_Ethiopia.txt#doc2,invest,2,397,0.2877,0.5754
+Cybersecurity_in_Ethiopia.txt#doc2,gener,1,397,0.1335,0.1335
+Cybersecurity_in_Ethiopia.txt#doc2,univers,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,special,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,program,2,397,0.6931,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,14,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,publicpriv,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,partnership,2,397,1.3863,2.7726
+Cybersecurity_in_Ethiopia.txt#doc2,play,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,vital,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,role,2,397,0.6931,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,tech,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,compani,1,397,0.2877,0.2877
+Cybersecurity_in_Ethiopia.txt#doc2,telecom,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,close,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,promot,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,data,2,397,0.2877,0.5754
+Cybersecurity_in_Ethiopia.txt#doc2,handl,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,15,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,rise,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,social,2,397,0.1335,0.2671
+Cybersecurity_in_Ethiopia.txt#doc2,media,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,present,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,misinform,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,propaganda,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,seriou,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,consequ,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,defend,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,requir,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,technic,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,polici,2,397,0.6931,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,solut,2,397,0.9808,1.9617
+Cybersecurity_in_Ethiopia.txt#doc2,16,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,ident,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,eid,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,roll,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,ensur,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,integr,2,397,0.6931,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,person,1,397,0.2877,0.2877
+Cybersecurity_in_Ethiopia.txt#doc2,breach,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,could,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,undermin,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,caus,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,harm,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,17,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,hygien,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,campaign,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,announc,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,help,2,397,0.6931,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,rais,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,citizen,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,need,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,understand,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,keep,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,common,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,trap,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,18,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,strategi,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,advanc,1,397,0.1335,0.1335
+Cybersecurity_in_Ethiopia.txt#doc2,toward,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,foundat,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,part,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,equat,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,start,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,19,1,397,0.9808,0.9808
+Cybersecurity_in_Ethiopia.txt#doc2,research,2,397,0.2877,0.5754
+Cybersecurity_in_Ethiopia.txt#doc2,innov,1,397,0.1335,0.1335
+Cybersecurity_in_Ethiopia.txt#doc2,support,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,local,1,397,0.47,0.47
+Cybersecurity_in_Ethiopia.txt#doc2,startup,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,tailor,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,context,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,selfreli,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,20,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,conclus,1,397,0.6931,0.6931
+Cybersecurity_in_Ethiopia.txt#doc2,press,1,397,2.0794,2.0794
+Cybersecurity_in_Ethiopia.txt#doc2,skill,1,397,1.3863,1.3863
+Cybersecurity_in_Ethiopia.txt#doc2,futur,1,397,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,digit,20,576,0.2877,5.7536
+Digital_Technology_Development_History.txt#doc3,technolog,16,576,0.1335,2.1365
+Digital_Technology_Development_History.txt#doc3,develop,8,576,0.1335,1.0683
+Digital_Technology_Development_History.txt#doc3,histori,3,576,0.47,1.41
+Digital_Technology_Development_History.txt#doc3,1,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,trace,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,back,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,fundament,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,need,2,576,0.47,0.94
+Digital_Technology_Development_History.txt#doc3,commun,2,576,0.47,0.94
+Digital_Technology_Development_History.txt#doc3,calcul,4,576,0.9808,3.9233
+Digital_Technology_Development_History.txt#doc3,data,7,576,0.2877,2.0138
+Digital_Technology_Development_History.txt#doc3,process,4,576,0.9808,3.9233
+Digital_Technology_Development_History.txt#doc3,earli,4,576,0.9808,3.9233
+Digital_Technology_Development_History.txt#doc3,mechan,5,576,0.9808,4.9041
+Digital_Technology_Development_History.txt#doc3,tool,2,576,0.6931,1.3863
+Digital_Technology_Development_History.txt#doc3,like,6,576,0.2877,1.7261
+Digital_Technology_Development_History.txt#doc3,abacu,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,laid,3,576,1.3863,4.1589
+Digital_Technology_Development_History.txt#doc3,groundwork,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,centuri,6,576,0.6931,4.1589
+Digital_Technology_Development_History.txt#doc3,innov,4,576,0.1335,0.5341
+Digital_Technology_Development_History.txt#doc3,17th,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,devic,4,576,0.9808,3.9233
+Digital_Technology_Development_History.txt#doc3,blais,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,pascal,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,gottfri,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,wilhelm,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,leibniz,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,step,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,reckon,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,repres,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,major,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,autom,3,576,1.3863,4.1589
+Digital_Technology_Development_History.txt#doc3,comput,14,576,0.6931,9.7041
+Digital_Technology_Development_History.txt#doc3,though,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,analog,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,natur,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,machin,7,576,0.9808,6.8658
+Digital_Technology_Development_History.txt#doc3,set,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,stage,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,precis,2,576,2.0794,4.1589
+Digital_Technology_Development_History.txt#doc3,would,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,emerg,3,576,0.6931,2.0794
+Digital_Technology_Development_History.txt#doc3,2,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,true,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,foundat,2,576,0.47,0.94
+Digital_Technology_Development_History.txt#doc3,19th,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,charl,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,babbag,3,576,2.0794,6.2383
+Digital_Technology_Development_History.txt#doc3,ada,2,576,2.0794,4.1589
+Digital_Technology_Development_History.txt#doc3,lovelac,2,576,2.0794,4.1589
+Digital_Technology_Development_History.txt#doc3,’,3,576,0.47,1.41
+Digital_Technology_Development_History.txt#doc3,conceptu,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,design,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,analyt,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,engin,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,introduc,3,576,0.47,1.41
+Digital_Technology_Development_History.txt#doc3,key,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,concept,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,modern,2,576,0.6931,1.3863
+Digital_Technology_Development_History.txt#doc3,central,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,unit,2,576,0.9808,1.9617
+Digital_Technology_Development_History.txt#doc3,memori,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,inputoutput,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,oper,2,576,0.47,0.94
+Digital_Technology_Development_History.txt#doc3,often,1,576,0.2877,0.2877
+Digital_Technology_Development_History.txt#doc3,credit,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,first,3,576,0.9808,2.9425
+Digital_Technology_Development_History.txt#doc3,programm,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,envis,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,could,3,576,0.9808,2.9425
+Digital_Technology_Development_History.txt#doc3,manipul,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,symbol,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,beyond,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,number,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,anticip,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,softwar,4,576,0.6931,2.7726
+Digital_Technology_Development_History.txt#doc3,never,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,complet,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,idea,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,profoundli,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,infl,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,3,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,20th,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,saw,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,acceler,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,begin,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,electron,2,576,0.9808,1.9617
+Digital_Technology_Development_History.txt#doc3,compon,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,vacuum,2,576,2.0794,4.1589
+Digital_Technology_Development_History.txt#doc3,tube,2,576,2.0794,4.1589
+Digital_Technology_Development_History.txt#doc3,use,3,576,0.0,0.0
+Digital_Technology_Development_History.txt#doc3,eniac,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,1940,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,massiv,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,consum,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,vast,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,amount,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,power,4,576,0.47,1.88
+Digital_Technology_Development_History.txt#doc3,primarili,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,militari,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,scientif,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,still,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,prove,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,logic,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,perform,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,complex,2,576,0.9808,1.9617
+Digital_Technology_Development_History.txt#doc3,task,2,576,0.9808,1.9617
+Digital_Technology_Development_History.txt#doc3,far,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,faster,2,576,2.0794,4.1589
+Digital_Technology_Development_History.txt#doc3,human,2,576,0.6931,1.3863
+Digital_Technology_Development_History.txt#doc3,system,3,576,0.1335,0.4006
+Digital_Technology_Development_History.txt#doc3,4,1,576,0.2877,0.2877
+Digital_Technology_Development_History.txt#doc3,invent,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,transistor,3,576,2.0794,6.2383
+Digital_Technology_Development_History.txt#doc3,1947,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,bell,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,lab,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,mark,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,turn,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,point,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,smaller,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,effici,2,576,0.6931,1.3863
+Digital_Technology_Development_History.txt#doc3,reliabl,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,allow,4,576,0.47,1.88
+Digital_Technology_Development_History.txt#doc3,creation,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,compact,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,breakthrough,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,pave,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,way,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,gener,1,576,0.1335,0.1335
+Digital_Technology_Development_History.txt#doc3,commerci,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,1950,2,576,0.9808,1.9617
+Digital_Technology_Development_History.txt#doc3,1960,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,began,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,appear,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,busi,2,576,0.2877,0.5754
+Digital_Technology_Development_History.txt#doc3,govern,1,576,0.2877,0.2877
+Digital_Technology_Development_History.txt#doc3,agenc,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,univers,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,5,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,integr,3,576,0.6931,2.0794
+Digital_Technology_Development_History.txt#doc3,circuit,2,576,2.0794,4.1589
+Digital_Technology_Development_History.txt#doc3,late,2,576,2.0794,4.1589
+Digital_Technology_Development_History.txt#doc3,miniatur,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,embed,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,multipl,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,onto,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,singl,2,576,2.0794,4.1589
+Digital_Technology_Development_History.txt#doc3,chip,2,576,2.0794,4.1589
+Digital_Technology_Development_History.txt#doc3,product,3,576,0.47,1.41
+Digital_Technology_Development_History.txt#doc3,afford,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,microprocessor,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,intel,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,1971,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,4004,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,revolution,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,combin,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,lead,2,576,0.6931,1.3863
+Digital_Technology_Development_History.txt#doc3,birth,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,person,3,576,0.2877,0.863
+Digital_Technology_Development_History.txt#doc3,6,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,1980,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,1990,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,defin,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,explos,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,applic,2,576,0.9808,1.9617
+Digital_Technology_Development_History.txt#doc3,compani,1,576,0.2877,0.2877
+Digital_Technology_Development_History.txt#doc3,ibm,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,appl,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,microsoft,2,576,0.9808,1.9617
+Digital_Technology_Development_History.txt#doc3,platform,3,576,0.9808,2.9425
+Digital_Technology_Development_History.txt#doc3,made,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,access,3,576,0.1335,0.4006
+Digital_Technology_Development_History.txt#doc3,public,1,576,0.2877,0.2877
+Digital_Technology_Development_History.txt#doc3,graphic,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,user,2,576,0.6931,1.3863
+Digital_Technology_Development_History.txt#doc3,interfac,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,transform,3,576,0.2877,0.863
+Digital_Technology_Development_History.txt#doc3,peopl,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,interact,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,era,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,also,3,576,0.0,0.0
+Digital_Technology_Development_History.txt#doc3,wit,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,growth,1,576,0.2877,0.2877
+Digital_Technology_Development_History.txt#doc3,local,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,widearea,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,network,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,global,2,576,0.47,0.94
+Digital_Technology_Development_History.txt#doc3,connect,2,576,0.9808,1.9617
+Digital_Technology_Development_History.txt#doc3,7,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,internet,5,576,0.47,2.35
+Digital_Technology_Development_History.txt#doc3,radic,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,chang,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,trajectori,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,initi,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,academ,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,project,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,becam,2,576,2.0794,4.1589
+Digital_Technology_Development_History.txt#doc3,phenomenon,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,world,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,wide,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,web,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,tim,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,bernersle,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,suddenli,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,inform,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,share,2,576,0.6931,1.3863
+Digital_Technology_Development_History.txt#doc3,ecommerc,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,possibl,2,576,0.9808,1.9617
+Digital_Technology_Development_History.txt#doc3,unpreced,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,scale,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,new,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,industri,2,576,0.6931,1.3863
+Digital_Technology_Development_History.txt#doc3,reshap,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,exist,2,576,0.9808,1.9617
+Digital_Technology_Development_History.txt#doc3,one,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,8,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,mobil,2,576,0.9808,1.9617
+Digital_Technology_Development_History.txt#doc3,signific,2,576,0.1335,0.2671
+Digital_Technology_Development_History.txt#doc3,trend,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,21st,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,introduct,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,smartphon,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,led,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,iphon,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,2007,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,brought,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,palm,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,hand,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,transit,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,stationari,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,portabl,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,enabl,3,576,0.9808,2.9425
+Digital_Technology_Development_History.txt#doc3,app,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,locationbas,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,servic,4,576,0.47,1.88
+Digital_Technology_Development_History.txt#doc3,social,1,576,0.1335,0.1335
+Digital_Technology_Development_History.txt#doc3,media,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,domin,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,daili,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,life,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,9,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,cloud,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,expand,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,reach,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,capabl,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,storag,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,remot,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,server,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,model,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,scalabl,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,individu,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,reduc,1,576,0.2877,0.2877
+Digital_Technology_Development_History.txt#doc3,costli,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,infrastructur,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,googl,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,drive,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,amazon,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,azur,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,becom,1,576,0.2877,0.2877
+Digital_Technology_Development_History.txt#doc3,backbon,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,today,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,economi,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,10,1,576,0.1335,0.1335
+Digital_Technology_Development_History.txt#doc3,artifici,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,intellig,2,576,0.47,0.94
+Digital_Technology_Development_History.txt#doc3,ai,3,576,0.9808,2.9425
+Digital_Technology_Development_History.txt#doc3,learn,3,576,0.9808,2.9425
+Digital_Technology_Development_History.txt#doc3,big,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,among,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,recent,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,year,1,576,0.2877,0.2877
+Digital_Technology_Development_History.txt#doc3,make,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,predict,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,autonom,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,vehicl,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,recommend,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,rang,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,expect,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,cornerston,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,futur,3,576,0.47,1.41
+Digital_Technology_Development_History.txt#doc3,advanc,1,576,0.1335,0.1335
+Digital_Technology_Development_History.txt#doc3,11,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,sector,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,healthcar,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,educ,2,576,0.2877,0.5754
+Digital_Technology_Development_History.txt#doc3,agricultur,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,financ,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,telemedicin,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,onlin,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,farm,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,bank,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,exampl,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,improv,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,across,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,12,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,look,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,quantum,2,576,2.0794,4.1589
+Digital_Technology_Development_History.txt#doc3,blockchain,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,thing,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,iot,2,576,0.9808,1.9617
+Digital_Technology_Development_History.txt#doc3,promis,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,live,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,work,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,solv,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,problem,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,current,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,unsolv,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,offer,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,secur,1,576,0.2877,0.2877
+Digital_Technology_Development_History.txt#doc3,transpar,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,transact,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,manag,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,everyday,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,realtim,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,monitor,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,13,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,despit,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,mani,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,benefit,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,rapid,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,present,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,challeng,1,576,0.1335,0.1335
+Digital_Technology_Development_History.txt#doc3,issu,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,inequ,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,privaci,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,cybersecur,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,ethic,2,576,1.3863,2.7726
+Digital_Technology_Development_History.txt#doc3,requir,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,care,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,consider,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,regul,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,continu,2,576,0.47,0.94
+Digital_Technology_Development_History.txt#doc3,evolv,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,societi,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,must,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,balanc,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,respons,1,576,0.1335,0.1335
+Digital_Technology_Development_History.txt#doc3,ensur,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,fair,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,inclus,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,14,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,conclus,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,stori,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,ingenu,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,persist,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,creativ,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,build,1,576,0.6931,0.6931
+Digital_Technology_Development_History.txt#doc3,last,1,576,0.9808,0.9808
+Digital_Technology_Development_History.txt#doc3,push,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,boundari,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,move,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,age,1,576,2.0794,2.0794
+Digital_Technology_Development_History.txt#doc3,invest,1,576,0.2877,0.2877
+Digital_Technology_Development_History.txt#doc3,research,1,576,0.2877,0.2877
+Digital_Technology_Development_History.txt#doc3,framework,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,essenti,1,576,0.47,0.47
+Digital_Technology_Development_History.txt#doc3,har,1,576,1.3863,1.3863
+Digital_Technology_Development_History.txt#doc3,better,1,576,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,digit,42,733,0.2877,12.0826
+Digital_Technology_in_Ethiopia.txt#doc4,technolog,16,733,0.1335,2.1365
+Digital_Technology_in_Ethiopia.txt#doc4,ethiopia,16,733,1.3863,22.1807
+Digital_Technology_in_Ethiopia.txt#doc4,1,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,journey,3,733,2.0794,6.2383
+Digital_Technology_in_Ethiopia.txt#doc4,began,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,1960,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,introduct,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,basic,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,comput,3,733,0.6931,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,devic,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,like,4,733,0.2877,1.1507
+Digital_Technology_in_Ethiopia.txt#doc4,ibm,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,account,2,733,2.0794,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,machin,2,733,0.9808,1.9617
+Digital_Technology_in_Ethiopia.txt#doc4,system,3,733,0.1335,0.4006
+Digital_Technology_in_Ethiopia.txt#doc4,primarili,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,use,4,733,0.0,0.0
+Digital_Technology_in_Ethiopia.txt#doc4,government,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,financi,3,733,0.6931,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,institut,4,733,0.6931,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,manag,3,733,0.6931,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,data,5,733,0.2877,1.4384
+Digital_Technology_in_Ethiopia.txt#doc4,perform,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,routin,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,calcul,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,time,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,transit,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,electron,2,733,0.9808,1.9617
+Digital_Technology_in_Ethiopia.txt#doc4,36020,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,1970,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,mark,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,signific,2,733,0.1335,0.2671
+Digital_Technology_in_Ethiopia.txt#doc4,evolut,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,mechan,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,laid,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,foundat,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,literaci,4,733,2.0794,8.3178
+Digital_Technology_in_Ethiopia.txt#doc4,eventu,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,integr,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,advanc,3,733,0.1335,0.4006
+Digital_Technology_in_Ethiopia.txt#doc4,countri,3,733,0.47,1.41
+Digital_Technology_in_Ethiopia.txt#doc4,’,4,733,0.47,1.88
+Digital_Technology_in_Ethiopia.txt#doc4,infrastructur,5,733,0.47,2.35
+Digital_Technology_in_Ethiopia.txt#doc4,2,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,1980,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,adopt,3,733,0.9808,2.9425
+Digital_Technology_in_Ethiopia.txt#doc4,minicomput,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,introduc,3,733,0.47,1.41
+Digital_Technology_in_Ethiopia.txt#doc4,process,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,capabl,2,733,0.9808,1.9617
+Digital_Technology_in_Ethiopia.txt#doc4,expand,5,733,0.6931,3.4657
+Digital_Technology_in_Ethiopia.txt#doc4,beyond,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,logist,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,era,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,saw,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,public,3,733,0.2877,0.863
+Digital_Technology_in_Ethiopia.txt#doc4,privat,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,begin,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,solut,2,733,0.9808,1.9617
+Digital_Technology_in_Ethiopia.txt#doc4,oper,3,733,0.47,1.41
+Digital_Technology_in_Ethiopia.txt#doc4,effici,3,733,0.6931,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,develop,10,733,0.1335,1.3353
+Digital_Technology_in_Ethiopia.txt#doc4,although,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,modest,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,comparison,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,global,3,733,0.47,1.41
+Digital_Technology_in_Ethiopia.txt#doc4,trend,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,essenti,3,733,0.47,1.41
+Digital_Technology_in_Ethiopia.txt#doc4,prepar,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,rapid,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,chang,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,would,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,follow,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,21st,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,centuri,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,3,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,telecommun,2,733,2.0794,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,cornerston,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,format,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,ethiopian,4,733,1.3863,5.5452
+Digital_Technology_in_Ethiopia.txt#doc4,corpor,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,ethio,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,telecom,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,pivot,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,connect,3,733,0.9808,2.9425
+Digital_Technology_in_Ethiopia.txt#doc4,urban,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,center,3,733,1.3863,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,telephon,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,network,2,733,0.47,0.94
+Digital_Technology_in_Ethiopia.txt#doc4,internet,5,733,0.47,2.35
+Digital_Technology_in_Ethiopia.txt#doc4,year,1,733,0.2877,0.2877
+Digital_Technology_in_Ethiopia.txt#doc4,major,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,invest,3,733,0.2877,0.863
+Digital_Technology_in_Ethiopia.txt#doc4,made,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,mobil,6,733,0.9808,5.885
+Digital_Technology_in_Ethiopia.txt#doc4,enabl,4,733,0.9808,3.9233
+Digital_Technology_in_Ethiopia.txt#doc4,commun,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,across,3,733,1.3863,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,4,1,733,0.2877,0.2877
+Digital_Technology_in_Ethiopia.txt#doc4,mileston,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,transform,5,733,0.2877,1.4384
+Digital_Technology_in_Ethiopia.txt#doc4,launch,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,“,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,2025,3,733,1.3863,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,”,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,strategi,2,733,0.47,0.94
+Digital_Technology_in_Ethiopia.txt#doc4,initi,4,733,0.6931,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,2020,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,aim,4,733,0.6931,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,posit,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,competit,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,economi,3,733,0.47,1.41
+Digital_Technology_in_Ethiopia.txt#doc4,foster,2,733,2.0794,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,innov,5,733,0.1335,0.6677
+Digital_Technology_in_Ethiopia.txt#doc4,creat,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,job,2,733,2.0794,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,opportun,3,733,1.3863,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,enhanc,3,733,1.3863,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,govern,6,733,0.2877,1.7261
+Digital_Technology_in_Ethiopia.txt#doc4,servic,6,733,0.47,2.82
+Digital_Technology_in_Ethiopia.txt#doc4,key,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,focu,2,733,2.0794,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,area,5,733,1.3863,6.9315
+Digital_Technology_in_Ethiopia.txt#doc4,includ,2,733,0.9808,1.9617
+Digital_Technology_in_Ethiopia.txt#doc4,broadband,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,access,11,733,0.1335,1.4688
+Digital_Technology_in_Ethiopia.txt#doc4,improv,4,733,0.47,1.88
+Digital_Technology_in_Ethiopia.txt#doc4,increas,2,733,0.47,0.94
+Digital_Technology_in_Ethiopia.txt#doc4,id,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,5,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,emphas,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,import,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,publicpriv,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,partnership,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,achiev,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,nation,2,733,0.2877,0.5754
+Digital_Technology_in_Ethiopia.txt#doc4,goal,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,collabor,4,733,0.9808,3.9233
+Digital_Technology_in_Ethiopia.txt#doc4,intern,3,733,0.6931,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,agenc,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,local,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,startup,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,work,3,733,0.47,1.41
+Digital_Technology_in_Ethiopia.txt#doc4,toward,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,build,3,733,0.6931,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,inclus,5,733,0.6931,3.4657
+Digital_Technology_in_Ethiopia.txt#doc4,serv,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,rural,4,733,2.0794,8.3178
+Digital_Technology_in_Ethiopia.txt#doc4,popul,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,bridg,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,divid,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,ensur,3,733,0.47,1.41
+Digital_Technology_in_Ethiopia.txt#doc4,equal,2,733,2.0794,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,6,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,becom,1,733,0.2877,0.2877
+Digital_Technology_in_Ethiopia.txt#doc4,tool,3,733,0.6931,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,85,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,million,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,activ,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,widespread,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,phone,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,bank,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,ecommerc,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,health,5,733,1.3863,6.9315
+Digital_Technology_in_Ethiopia.txt#doc4,gain,3,733,0.6931,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,traction,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,even,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,limit,4,733,0.6931,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,money,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,platform,3,733,0.9808,2.9425
+Digital_Technology_in_Ethiopia.txt#doc4,also,6,733,0.0,0.0
+Digital_Technology_in_Ethiopia.txt#doc4,play,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,crucial,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,role,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,drive,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,7,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,despit,2,733,0.9808,1.9617
+Digital_Technology_in_Ethiopia.txt#doc4,penetr,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,remain,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,rel,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,low,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,213,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,particular,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,face,3,733,0.6931,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,challeng,4,733,0.1335,0.5341
+Digital_Technology_in_Ethiopia.txt#doc4,due,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,unreli,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,electr,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,high,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,cost,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,barrier,3,733,2.0794,6.2383
+Digital_Technology_in_Ethiopia.txt#doc4,highlight,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,need,2,733,0.47,0.94
+Digital_Technology_in_Ethiopia.txt#doc4,target,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,promot,4,733,0.6931,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,equit,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,growth,1,733,0.2877,0.2877
+Digital_Technology_in_Ethiopia.txt#doc4,8,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,rise,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,hub,2,733,2.0794,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,tech,3,733,1.3863,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,incub,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,citi,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,addi,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,ababa,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,new,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,gener,1,733,0.1335,0.1335
+Digital_Technology_in_Ethiopia.txt#doc4,entrepreneur,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,organ,1,733,0.2877,0.2877
+Digital_Technology_in_Ethiopia.txt#doc4,icog,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,lab,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,recognit,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,artifici,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,intellig,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,project,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,sophia,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,robot,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,provid,2,733,0.9808,1.9617
+Digital_Technology_in_Ethiopia.txt#doc4,train,2,733,0.9808,1.9617
+Digital_Technology_in_Ethiopia.txt#doc4,mentorship,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,fund,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,young,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,9,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,academ,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,univers,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,scienc,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,engin,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,program,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,conduct,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,research,1,733,0.2877,0.2877
+Digital_Technology_in_Ethiopia.txt#doc4,ai,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,cybersecur,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,effort,4,733,0.6931,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,equip,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,youth,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,skill,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,relev,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,encourag,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,homegrown,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,10,1,733,0.1335,0.1335
+Digital_Technology_in_Ethiopia.txt#doc4,addit,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,educ,4,733,0.2877,1.1507
+Digital_Technology_in_Ethiopia.txt#doc4,nationwid,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,campaign,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,help,3,733,0.6931,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,citizen,2,733,0.9808,1.9617
+Digital_Technology_in_Ethiopia.txt#doc4,understand,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,util,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,everyday,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,task,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,person,1,733,0.2877,0.2877
+Digital_Technology_in_Ethiopia.txt#doc4,financ,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,seen,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,econom,2,733,0.47,0.94
+Digital_Technology_in_Ethiopia.txt#doc4,social,1,733,0.1335,0.1335
+Digital_Technology_in_Ethiopia.txt#doc4,11,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,egovern,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,implement,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,streamlin,2,733,2.0794,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,administr,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,engag,2,733,0.9808,1.9617
+Digital_Technology_in_Ethiopia.txt#doc4,tax,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,file,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,land,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,registr,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,busi,2,733,0.2877,0.5754
+Digital_Technology_in_Ethiopia.txt#doc4,licens,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,roll,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,reduc,2,733,0.2877,0.5754
+Digital_Technology_in_Ethiopia.txt#doc4,bureaucraci,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,transpar,2,733,1.3863,2.7726
+Digital_Technology_in_Ethiopia.txt#doc4,expect,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,save,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,corrupt,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,overal,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,12,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,momentum,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,particularli,2,733,0.47,0.94
+Digital_Technology_in_Ethiopia.txt#doc4,respons,3,733,0.1335,0.4006
+Digital_Technology_in_Ethiopia.txt#doc4,healthcar,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,deliveri,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,involv,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,telemedicin,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,record,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,remot,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,diagnost,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,overcom,2,733,2.0794,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,geograph,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,resourc,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,outcom,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,medic,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,care,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,13,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,enterpris,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,explor,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,fintech,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,agritech,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,edtech,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,avail,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,allow,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,small,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,reach,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,broader,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,market,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,contribut,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,creation,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,poverti,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,reduct,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,align,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,14,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,progress,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,sever,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,issu,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,privaci,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,threat,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,lack,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,regulatori,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,framework,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,address,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,trust,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,establish,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,legal,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,structur,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,support,2,733,0.47,0.94
+Digital_Technology_in_Ethiopia.txt#doc4,secur,1,733,0.2877,0.2877
+Digital_Technology_in_Ethiopia.txt#doc4,resili,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,ecosystem,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,15,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,gender,2,733,2.0794,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,dispar,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,particip,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,concern,1,733,0.2877,0.2877
+Digital_Technology_in_Ethiopia.txt#doc4,women,2,733,2.0794,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,relat,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,afford,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,cultur,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,norm,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,empow,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,entrepreneurship,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,space,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,16,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,region,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,strengthen,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,smart,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,africa,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,allianc,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,firm,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,expertis,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,best,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,practic,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,acceler,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,multipl,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,sector,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,17,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,recogn,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,environment,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,sustain,2,733,0.9808,1.9617
+Digital_Technology_in_Ethiopia.txt#doc4,polici,2,733,0.6931,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,energyeffici,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,ewast,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,recycl,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,green,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,futur,2,733,0.47,0.94
+Digital_Technology_in_Ethiopia.txt#doc4,18,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,potenti,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,realiz,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,elearn,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,content,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,teacher,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,shortag,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,school,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,student,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,qualiti,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,regardless,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,locat,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,19,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,look,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,ahead,2,733,2.0794,4.1589
+Digital_Technology_in_Ethiopia.txt#doc4,emerg,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,blockchain,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,thing,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,iot,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,learn,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,hold,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,great,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,promis,2,733,0.9808,1.9617
+Digital_Technology_in_Ethiopia.txt#doc4,decisionmak,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,industri,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,agricultur,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,transport,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,safeti,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,20,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,conclus,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,complex,1,733,0.9808,0.9808
+Digital_Technology_in_Ethiopia.txt#doc4,strateg,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,wellposit,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,har,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,power,1,733,0.47,0.47
+Digital_Technology_in_Ethiopia.txt#doc4,road,1,733,2.0794,2.0794
+Digital_Technology_in_Ethiopia.txt#doc4,requir,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,commit,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,share,1,733,0.6931,0.6931
+Digital_Technology_in_Ethiopia.txt#doc4,vision,1,733,1.3863,1.3863
+Digital_Technology_in_Ethiopia.txt#doc4,thrive,1,733,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,fashion,33,481,2.0794,68.6216
+Fashion_in_the_World.txt#doc5,world,8,481,0.47,3.76
+Fashion_in_the_World.txt#doc5,1,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,dynam,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,everevolv,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,aspect,2,481,0.9808,1.9617
+Fashion_in_the_World.txt#doc5,human,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,cultur,5,481,0.9808,4.9041
+Fashion_in_the_World.txt#doc5,reflect,2,481,2.0794,4.1589
+Fashion_in_the_World.txt#doc5,person,1,481,0.2877,0.2877
+Fashion_in_the_World.txt#doc5,ident,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,social,3,481,0.1335,0.4006
+Fashion_in_the_World.txt#doc5,statu,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,global,6,481,0.47,2.82
+Fashion_in_the_World.txt#doc5,influenc,5,481,1.3863,6.9315
+Fashion_in_the_World.txt#doc5,throughout,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,histori,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,cloth,4,481,2.0794,8.3178
+Fashion_in_the_World.txt#doc5,serv,2,481,1.3863,2.7726
+Fashion_in_the_World.txt#doc5,protect,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,element,2,481,2.0794,4.1589
+Fashion_in_the_World.txt#doc5,also,6,481,0.0,0.0
+Fashion_in_the_World.txt#doc5,mean,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,selfexpress,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,commun,3,481,0.47,1.41
+Fashion_in_the_World.txt#doc5,ancient,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,egyptian,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,linen,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,garment,4,481,2.0794,8.3178
+Fashion_in_the_World.txt#doc5,elabor,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,silk,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,imperi,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,china,2,481,2.0794,4.1589
+Fashion_in_the_World.txt#doc5,alway,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,tie,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,civil,2,481,1.3863,2.7726
+Fashion_in_the_World.txt#doc5,’,3,481,0.47,1.41
+Fashion_in_the_World.txt#doc5,progress,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,today,2,481,0.9808,1.9617
+Fashion_in_the_World.txt#doc5,becom,6,481,0.2877,1.7261
+Fashion_in_the_World.txt#doc5,industri,6,481,0.6931,4.1589
+Fashion_in_the_World.txt#doc5,billion,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,shape,4,481,2.0794,8.3178
+Fashion_in_the_World.txt#doc5,peopl,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,view,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,other,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,context,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,societi,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,2,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,evolut,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,deepli,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,intertwin,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,histor,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,event,2,481,1.3863,2.7726
+Fashion_in_the_World.txt#doc5,technolog,3,481,0.1335,0.4006
+Fashion_in_the_World.txt#doc5,advanc,1,481,0.1335,0.1335
+Fashion_in_the_World.txt#doc5,movement,3,481,1.3863,4.1589
+Fashion_in_the_World.txt#doc5,revolut,2,481,1.3863,2.7726
+Fashion_in_the_World.txt#doc5,instanc,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,brought,2,481,1.3863,2.7726
+Fashion_in_the_World.txt#doc5,mass,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,product,2,481,0.47,0.94
+Fashion_in_the_World.txt#doc5,textil,4,481,2.0794,8.3178
+Fashion_in_the_World.txt#doc5,make,2,481,0.47,0.94
+Fashion_in_the_World.txt#doc5,access,1,481,0.1335,0.1335
+Fashion_in_the_World.txt#doc5,broader,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,popul,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,20th,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,centuri,2,481,0.6931,1.3863
+Fashion_in_the_World.txt#doc5,trend,4,481,0.6931,2.7726
+Fashion_in_the_World.txt#doc5,war,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,right,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,decad,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,distinct,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,style,4,481,2.0794,8.3178
+Fashion_in_the_World.txt#doc5,flapper,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,dress,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,1920,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,rebelli,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,leather,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,jacket,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,1950,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,bold,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,neon,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,color,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,1980,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,3,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,transcend,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,nation,1,481,0.2877,0.2877
+Fashion_in_the_World.txt#doc5,border,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,unpreced,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,speed,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,rise,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,internet,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,media,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,allow,2,481,0.47,0.94
+Fashion_in_the_World.txt#doc5,tokyo,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,pari,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,new,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,york,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,lago,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,one,2,481,0.47,0.94
+Fashion_in_the_World.txt#doc5,anoth,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,realtim,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,digit,2,481,0.2877,0.5754
+Fashion_in_the_World.txt#doc5,creator,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,play,2,481,0.6931,1.3863
+Fashion_in_the_World.txt#doc5,signific,1,481,0.1335,0.1335
+Fashion_in_the_World.txt#doc5,role,2,481,0.6931,1.3863
+Fashion_in_the_World.txt#doc5,set,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,often,1,481,0.2877,0.2877
+Fashion_in_the_World.txt#doc5,collabor,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,major,2,481,0.47,0.94
+Fashion_in_the_World.txt#doc5,brand,3,481,2.0794,6.2383
+Fashion_in_the_World.txt#doc5,launch,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,label,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,democrat,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,individu,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,tastemak,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,reach,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,audienc,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,far,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,beyond,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,immedi,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,4,1,481,0.2877,0.2877
+Fashion_in_the_World.txt#doc5,high,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,haut,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,coutur,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,repres,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,pinnacl,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,design,6,481,1.3863,8.3178
+Fashion_in_the_World.txt#doc5,craftsmanship,2,481,2.0794,4.1589
+Fashion_in_the_World.txt#doc5,luxuri,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,hous,2,481,1.3863,2.7726
+Fashion_in_the_World.txt#doc5,chanel,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,dior,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,givenchi,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,creat,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,meticul,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,tailor,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,elit,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,clientel,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,continu,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,mainstream,2,481,1.3863,2.7726
+Fashion_in_the_World.txt#doc5,runway,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,show,3,481,2.0794,6.2383
+Fashion_in_the_World.txt#doc5,season,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,collect,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,howev,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,streetwear,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,fast,2,481,2.0794,4.1589
+Fashion_in_the_World.txt#doc5,emerg,2,481,0.6931,1.3863
+Fashion_in_the_World.txt#doc5,power,3,481,0.47,1.41
+Fashion_in_the_World.txt#doc5,forc,2,481,1.3863,2.7726
+Fashion_in_the_World.txt#doc5,like,4,481,0.2877,1.1507
+Fashion_in_the_World.txt#doc5,zara,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,hm,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,suprem,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,everyday,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,wardrob,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,respond,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,quickli,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,consum,2,481,1.3863,2.7726
+Fashion_in_the_World.txt#doc5,demand,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,5,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,divers,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,essenti,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,modern,2,481,0.6931,1.3863
+Fashion_in_the_World.txt#doc5,landscap,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,increasingli,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,draw,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,inspir,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,tradit,2,481,1.3863,2.7726
+Fashion_in_the_World.txt#doc5,indigen,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,around,2,481,0.6931,1.3863
+Fashion_in_the_World.txt#doc5,african,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,print,2,481,2.0794,4.1589
+Fashion_in_the_World.txt#doc5,indian,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,embroideri,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,andean,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,consid,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,nich,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,exot,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,celebr,2,481,2.0794,4.1589
+Fashion_in_the_World.txt#doc5,apparel,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,inclus,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,promot,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,exchang,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,rais,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,question,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,appropri,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,respect,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,origin,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,6,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,econom,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,employ,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,million,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,worldwid,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,manufactur,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,market,2,481,0.9808,1.9617
+Fashion_in_the_World.txt#doc5,retail,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,countri,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,itali,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,franc,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,unit,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,state,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,powerhous,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,africa,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,south,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,america,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,southeast,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,asia,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,develop,1,481,0.1335,0.1335
+Fashion_in_the_World.txt#doc5,vibrant,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,local,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,region,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,gain,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,recognit,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,blend,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,aesthet,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,help,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,redefin,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,look,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,7,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,environment,2,481,0.6931,1.3863
+Fashion_in_the_World.txt#doc5,impact,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,particularli,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,concern,1,481,0.2877,0.2877
+Fashion_in_the_World.txt#doc5,largest,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,contributor,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,pollut,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,water,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,consumpt,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,wast,2,481,2.0794,4.1589
+Fashion_in_the_World.txt#doc5,respons,1,481,0.1335,0.1335
+Fashion_in_the_World.txt#doc5,grow,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,toward,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,sustain,2,481,0.9808,1.9617
+Fashion_in_the_World.txt#doc5,priorit,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,ethic,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,use,3,481,0.0,0.0
+Fashion_in_the_World.txt#doc5,recycl,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,materi,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,friendli,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,practic,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,consciou,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,opt,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,slow,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,valu,2,481,2.0794,4.1589
+Fashion_in_the_World.txt#doc5,qualiti,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,quantiti,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,8,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,revolution,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,innov,2,481,0.1335,0.2671
+Fashion_in_the_World.txt#doc5,3d,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,smart,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,virtual,2,481,2.0794,4.1589
+Fashion_in_the_World.txt#doc5,softwar,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,conceptu,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,reduc,1,481,0.2877,0.2877
+Fashion_in_the_World.txt#doc5,prototyp,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,stage,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,meanwhil,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,wearabl,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,tech—such,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,monitor,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,vital,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,sign,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,adjust,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,bodi,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,temperature—i,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,merg,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,function,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,avatar,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,indic,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,metavers,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,might,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,next,2,481,2.0794,4.1589
+Fashion_in_the_World.txt#doc5,frontier,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,9,1,481,0.47,0.47
+Fashion_in_the_World.txt#doc5,educ,1,481,0.2877,0.2877
+Fashion_in_the_World.txt#doc5,institut,3,481,0.6931,2.0794
+Fashion_in_the_World.txt#doc5,critic,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,gener,1,481,0.1335,0.1335
+Fashion_in_the_World.txt#doc5,profession,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,prestigi,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,school,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,parson,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,central,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,saint,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,martin,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,nurtur,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,talent,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,push,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,boundari,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,creativ,2,481,1.3863,2.7726
+Fashion_in_the_World.txt#doc5,think,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,student,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,converg,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,share,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,perspect,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,challeng,1,481,0.1335,0.1335
+Fashion_in_the_World.txt#doc5,norm,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,within,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,field,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,10,1,481,0.1335,0.1335
+Fashion_in_the_World.txt#doc5,ultim,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,mirror,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,societ,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,aspir,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,contradict,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,whether,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,polit,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,statement,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,heritag,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,simpli,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,feel,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,good,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,remain,1,481,0.6931,0.6931
+Fashion_in_the_World.txt#doc5,form,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,navig,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,21st,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,must,1,481,0.9808,0.9808
+Fashion_in_the_World.txt#doc5,grappl,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,balanc,1,481,1.3863,1.3863
+Fashion_in_the_World.txt#doc5,commerc,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,rapidli,1,481,2.0794,2.0794
+Fashion_in_the_World.txt#doc5,chang,1,481,0.47,0.47
+Machine learning .txt#doc6,machin,24,563,0.9808,23.5399
+Machine learning .txt#doc6,learn,29,563,0.9808,28.444
+Machine learning .txt#doc6,ml,3,563,2.0794,6.2383
+Machine learning .txt#doc6,field,8,563,0.9808,7.8466
+Machine learning .txt#doc6,studi,6,563,2.0794,12.4766
+Machine learning .txt#doc6,artifici,4,563,0.6931,2.7726
+Machine learning .txt#doc6,intellig,4,563,0.47,1.88
+Machine learning .txt#doc6,concern,2,563,0.2877,0.5754
+Machine learning .txt#doc6,develop,4,563,0.1335,0.5341
+Machine learning .txt#doc6,statist,3,563,2.0794,6.2383
+Machine learning .txt#doc6,algorithm,10,563,2.0794,20.7944
+Machine learning .txt#doc6,data,10,563,0.2877,2.8768
+Machine learning .txt#doc6,generalis,1,563,2.0794,2.0794
+Machine learning .txt#doc6,unseen,1,563,2.0794,2.0794
+Machine learning .txt#doc6,thu,1,563,2.0794,2.0794
+Machine learning .txt#doc6,perform,4,563,0.6931,2.7726
+Machine learning .txt#doc6,task,5,563,0.9808,4.9041
+Machine learning .txt#doc6,without,2,563,1.3863,2.7726
+Machine learning .txt#doc6,explicit,1,563,2.0794,2.0794
+Machine learning .txt#doc6,instruct,1,563,2.0794,2.0794
+Machine learning .txt#doc6,within,1,563,0.6931,0.6931
+Machine learning .txt#doc6,subdisciplin,1,563,1.3863,1.3863
+Machine learning .txt#doc6,advanc,1,563,0.1335,0.1335
+Machine learning .txt#doc6,deep,1,563,1.3863,1.3863
+Machine learning .txt#doc6,allow,1,563,0.47,0.47
+Machine learning .txt#doc6,neural,4,563,2.0794,8.3178
+Machine learning .txt#doc6,network,3,563,0.47,1.41
+Machine learning .txt#doc6,class,2,563,2.0794,4.1589
+Machine learning .txt#doc6,surpass,1,563,2.0794,2.0794
+Machine learning .txt#doc6,mani,2,563,0.47,0.94
+Machine learning .txt#doc6,previou,1,563,1.3863,1.3863
+Machine learning .txt#doc6,approach,1,563,1.3863,1.3863
+Machine learning .txt#doc6,find,2,563,1.3863,2.7726
+Machine learning .txt#doc6,applic,2,563,0.9808,1.9617
+Machine learning .txt#doc6,includ,2,563,0.9808,1.9617
+Machine learning .txt#doc6,natur,1,563,0.6931,0.6931
+Machine learning .txt#doc6,languag,1,563,2.0794,2.0794
+Machine learning .txt#doc6,process,4,563,0.9808,3.9233
+Machine learning .txt#doc6,comput,8,563,0.6931,5.5452
+Machine learning .txt#doc6,vision,2,563,1.3863,2.7726
+Machine learning .txt#doc6,speech,2,563,2.0794,4.1589
+Machine learning .txt#doc6,recognit,2,563,0.9808,1.9617
+Machine learning .txt#doc6,email,1,563,1.3863,1.3863
+Machine learning .txt#doc6,filter,1,563,2.0794,2.0794
+Machine learning .txt#doc6,agricultur,1,563,0.6931,0.6931
+Machine learning .txt#doc6,medicin,1,563,2.0794,2.0794
+Machine learning .txt#doc6,busi,1,563,0.2877,0.2877
+Machine learning .txt#doc6,problem,3,563,1.3863,4.1589
+Machine learning .txt#doc6,known,1,563,0.9808,0.9808
+Machine learning .txt#doc6,predict,3,563,0.9808,2.9425
+Machine learning .txt#doc6,analyt,1,563,1.3863,1.3863
+Machine learning .txt#doc6,mathemat,3,563,2.0794,6.2383
+Machine learning .txt#doc6,optimis,1,563,2.0794,2.0794
+Machine learning .txt#doc6,program,4,563,0.6931,2.7726
+Machine learning .txt#doc6,method,1,563,1.3863,1.3863
+Machine learning .txt#doc6,compris,1,563,2.0794,2.0794
+Machine learning .txt#doc6,foundat,1,563,0.47,0.47
+Machine learning .txt#doc6,mine,1,563,2.0794,2.0794
+Machine learning .txt#doc6,relat,4,563,1.3863,5.5452
+Machine learning .txt#doc6,focus,1,563,2.0794,2.0794
+Machine learning .txt#doc6,exploratori,1,563,2.0794,2.0794
+Machine learning .txt#doc6,analysi,1,563,2.0794,2.0794
+Machine learning .txt#doc6,eda,1,563,2.0794,2.0794
+Machine learning .txt#doc6,via,1,563,1.3863,1.3863
+Machine learning .txt#doc6,unsupervis,1,563,2.0794,2.0794
+Machine learning .txt#doc6,theoret,2,563,2.0794,4.1589
+Machine learning .txt#doc6,viewpoint,1,563,2.0794,2.0794
+Machine learning .txt#doc6,probabl,1,563,2.0794,2.0794
+Machine learning .txt#doc6,approxim,1,563,2.0794,2.0794
+Machine learning .txt#doc6,correct,1,563,1.3863,1.3863
+Machine learning .txt#doc6,provid,3,563,0.9808,2.9425
+Machine learning .txt#doc6,framework,1,563,0.47,0.47
+Machine learning .txt#doc6,describ,2,563,1.3863,2.7726
+Machine learning .txt#doc6,term,2,563,1.3863,2.7726
+Machine learning .txt#doc6,coin,1,563,2.0794,2.0794
+Machine learning .txt#doc6,1959,1,563,2.0794,2.0794
+Machine learning .txt#doc6,arthur,2,563,2.0794,4.1589
+Machine learning .txt#doc6,samuel,2,563,2.0794,4.1589
+Machine learning .txt#doc6,ibm,2,563,0.6931,1.3863
+Machine learning .txt#doc6,employe,1,563,1.3863,1.3863
+Machine learning .txt#doc6,pioneer,1,563,2.0794,2.0794
+Machine learning .txt#doc6,game,1,563,2.0794,2.0794
+Machine learning .txt#doc6,synonym,1,563,2.0794,2.0794
+Machine learning .txt#doc6,selfteach,1,563,2.0794,2.0794
+Machine learning .txt#doc6,also,1,563,0.0,0.0
+Machine learning .txt#doc6,use,7,563,0.0,0.0
+Machine learning .txt#doc6,time,2,563,0.6931,1.3863
+Machine learning .txt#doc6,period,1,563,2.0794,2.0794
+Machine learning .txt#doc6,although,2,563,0.6931,1.3863
+Machine learning .txt#doc6,earliest,1,563,1.3863,1.3863
+Machine learning .txt#doc6,model,5,563,0.9808,4.9041
+Machine learning .txt#doc6,introduc,2,563,0.47,0.94
+Machine learning .txt#doc6,1950,1,563,0.9808,0.9808
+Machine learning .txt#doc6,invent,1,563,1.3863,1.3863
+Machine learning .txt#doc6,calcul,1,563,0.9808,0.9808
+Machine learning .txt#doc6,win,1,563,2.0794,2.0794
+Machine learning .txt#doc6,chanc,1,563,2.0794,2.0794
+Machine learning .txt#doc6,checker,1,563,2.0794,2.0794
+Machine learning .txt#doc6,side,1,563,2.0794,2.0794
+Machine learning .txt#doc6,histori,1,563,0.47,0.47
+Machine learning .txt#doc6,root,1,563,2.0794,2.0794
+Machine learning .txt#doc6,back,1,563,0.9808,0.9808
+Machine learning .txt#doc6,decad,1,563,0.6931,0.6931
+Machine learning .txt#doc6,human,5,563,0.6931,3.4657
+Machine learning .txt#doc6,desir,1,563,2.0794,2.0794
+Machine learning .txt#doc6,effort,1,563,0.6931,0.6931
+Machine learning .txt#doc6,cognit,3,563,2.0794,6.2383
+Machine learning .txt#doc6,1949,1,563,2.0794,2.0794
+Machine learning .txt#doc6,canadian,1,563,2.0794,2.0794
+Machine learning .txt#doc6,psychologist,1,563,2.0794,2.0794
+Machine learning .txt#doc6,donald,1,563,2.0794,2.0794
+Machine learning .txt#doc6,hebb,2,563,2.0794,4.1589
+Machine learning .txt#doc6,publish,1,563,2.0794,2.0794
+Machine learning .txt#doc6,book,3,563,2.0794,6.2383
+Machine learning .txt#doc6,organ,1,563,0.2877,0.2877
+Machine learning .txt#doc6,behavior,1,563,0.9808,0.9808
+Machine learning .txt#doc6,structur,1,563,0.9808,0.9808
+Machine learning .txt#doc6,form,1,563,1.3863,1.3863
+Machine learning .txt#doc6,certain,1,563,1.3863,1.3863
+Machine learning .txt#doc6,interact,2,563,1.3863,2.7726
+Machine learning .txt#doc6,among,1,563,1.3863,1.3863
+Machine learning .txt#doc6,nerv,1,563,2.0794,2.0794
+Machine learning .txt#doc6,cells13,1,563,2.0794,2.0794
+Machine learning .txt#doc6,neuron,2,563,2.0794,4.1589
+Machine learning .txt#doc6,one,2,563,0.47,0.94
+Machine learning .txt#doc6,anoth,2,563,0.9808,1.9617
+Machine learning .txt#doc6,set,2,563,0.6931,1.3863
+Machine learning .txt#doc6,groundwork,1,563,1.3863,1.3863
+Machine learning .txt#doc6,ai,1,563,0.9808,0.9808
+Machine learning .txt#doc6,work,1,563,0.47,0.47
+Machine learning .txt#doc6,node,1,563,2.0794,2.0794
+Machine learning .txt#doc6,commun,1,563,0.47,0.47
+Machine learning .txt#doc6,research,3,563,0.2877,0.863
+Machine learning .txt#doc6,system,3,563,0.1335,0.4006
+Machine learning .txt#doc6,contribut,1,563,0.9808,0.9808
+Machine learning .txt#doc6,modern,1,563,0.6931,0.6931
+Machine learning .txt#doc6,technolog,1,563,0.1335,0.1335
+Machine learning .txt#doc6,well,1,563,0.9808,0.9808
+Machine learning .txt#doc6,logician,1,563,2.0794,2.0794
+Machine learning .txt#doc6,walter,1,563,2.0794,2.0794
+Machine learning .txt#doc6,pitt,1,563,2.0794,2.0794
+Machine learning .txt#doc6,warren,1,563,2.0794,2.0794
+Machine learning .txt#doc6,mcculloch,1,563,2.0794,2.0794
+Machine learning .txt#doc6,propos,2,563,1.3863,2.7726
+Machine learning .txt#doc6,earli,2,563,0.9808,1.9617
+Machine learning .txt#doc6,come,1,563,1.3863,1.3863
+Machine learning .txt#doc6,mirror,1,563,1.3863,1.3863
+Machine learning .txt#doc6,thought,1,563,2.0794,2.0794
+Machine learning .txt#doc6,1960,2,563,0.9808,1.9617
+Machine learning .txt#doc6,experiment,1,563,1.3863,1.3863
+Machine learning .txt#doc6,punch,1,563,2.0794,2.0794
+Machine learning .txt#doc6,tape,1,563,2.0794,2.0794
+Machine learning .txt#doc6,memori,1,563,1.3863,1.3863
+Machine learning .txt#doc6,call,1,563,1.3863,1.3863
+Machine learning .txt#doc6,cybertron,1,563,2.0794,2.0794
+Machine learning .txt#doc6,raytheon,1,563,2.0794,2.0794
+Machine learning .txt#doc6,compani,1,563,0.2877,0.2877
+Machine learning .txt#doc6,analys,1,563,2.0794,2.0794
+Machine learning .txt#doc6,sonar,1,563,2.0794,2.0794
+Machine learning .txt#doc6,signal,1,563,2.0794,2.0794
+Machine learning .txt#doc6,electrocardiogram,1,563,2.0794,2.0794
+Machine learning .txt#doc6,pattern,5,563,1.3863,6.9315
+Machine learning .txt#doc6,rudimentari,1,563,2.0794,2.0794
+Machine learning .txt#doc6,reinforc,1,563,2.0794,2.0794
+Machine learning .txt#doc6,repetit,1,563,2.0794,2.0794
+Machine learning .txt#doc6,train,3,563,0.9808,2.9425
+Machine learning .txt#doc6,operatorteach,1,563,2.0794,2.0794
+Machine learning .txt#doc6,recognis,2,563,2.0794,4.1589
+Machine learning .txt#doc6,equip,1,563,0.6931,0.6931
+Machine learning .txt#doc6,goof,1,563,2.0794,2.0794
+Machine learning .txt#doc6,button,1,563,2.0794,2.0794
+Machine learning .txt#doc6,caus,1,563,0.9808,0.9808
+Machine learning .txt#doc6,reevalu,1,563,2.0794,2.0794
+Machine learning .txt#doc6,incorrect,1,563,2.0794,2.0794
+Machine learning .txt#doc6,decis,2,563,1.3863,2.7726
+Machine learning .txt#doc6,repres,1,563,0.6931,0.6931
+Machine learning .txt#doc6,nilsson,1,563,2.0794,2.0794
+Machine learning .txt#doc6,deal,1,563,1.3863,1.3863
+Machine learning .txt#doc6,mostli,1,563,1.3863,1.3863
+Machine learning .txt#doc6,classif,1,563,2.0794,2.0794
+Machine learning .txt#doc6,interest,1,563,2.0794,2.0794
+Machine learning .txt#doc6,continu,1,563,0.47,0.47
+Machine learning .txt#doc6,1970,1,563,0.9808,0.9808
+Machine learning .txt#doc6,duda,1,563,2.0794,2.0794
+Machine learning .txt#doc6,hart,1,563,2.0794,2.0794
+Machine learning .txt#doc6,1973,1,563,2.0794,2.0794
+Machine learning .txt#doc6,1981,1,563,2.0794,2.0794
+Machine learning .txt#doc6,report,2,563,1.3863,2.7726
+Machine learning .txt#doc6,given,1,563,2.0794,2.0794
+Machine learning .txt#doc6,teach,1,563,2.0794,2.0794
+Machine learning .txt#doc6,strategi,2,563,0.47,0.94
+Machine learning .txt#doc6,40,1,563,2.0794,2.0794
+Machine learning .txt#doc6,charact,1,563,2.0794,2.0794
+Machine learning .txt#doc6,26,1,563,2.0794,2.0794
+Machine learning .txt#doc6,letter,1,563,2.0794,2.0794
+Machine learning .txt#doc6,10,1,563,0.1335,0.1335
+Machine learning .txt#doc6,digit,1,563,0.2877,0.2877
+Machine learning .txt#doc6,4,1,563,0.2877,0.2877
+Machine learning .txt#doc6,special,1,563,1.3863,1.3863
+Machine learning .txt#doc6,symbol,1,563,1.3863,1.3863
+Machine learning .txt#doc6,termin,1,563,2.0794,2.0794
+Machine learning .txt#doc6,tom,1,563,2.0794,2.0794
+Machine learning .txt#doc6,mitchel,1,563,2.0794,2.0794
+Machine learning .txt#doc6,wide,1,563,1.3863,1.3863
+Machine learning .txt#doc6,quot,1,563,2.0794,2.0794
+Machine learning .txt#doc6,formal,1,563,0.9808,0.9808
+Machine learning .txt#doc6,definit,3,563,2.0794,6.2383
+Machine learning .txt#doc6,said,1,563,2.0794,2.0794
+Machine learning .txt#doc6,experi,2,563,1.3863,2.7726
+Machine learning .txt#doc6,e,2,563,2.0794,4.1589
+Machine learning .txt#doc6,respect,1,563,0.9808,0.9808
+Machine learning .txt#doc6,measur,2,563,0.9808,1.9617
+Machine learning .txt#doc6,p,2,563,2.0794,4.1589
+Machine learning .txt#doc6,improv,2,563,0.47,0.94
+Machine learning .txt#doc6,offer,1,563,0.6931,0.6931
+Machine learning .txt#doc6,fundament,1,563,1.3863,1.3863
+Machine learning .txt#doc6,oper,1,563,0.47,0.47
+Machine learning .txt#doc6,rather,1,563,2.0794,2.0794
+Machine learning .txt#doc6,defin,1,563,0.9808,0.9808
+Machine learning .txt#doc6,follow,1,563,1.3863,1.3863
+Machine learning .txt#doc6,alan,1,563,2.0794,2.0794
+Machine learning .txt#doc6,ture,1,563,2.0794,2.0794
+Machine learning .txt#doc6,paper,1,563,2.0794,2.0794
+Machine learning .txt#doc6,machineri,1,563,2.0794,2.0794
+Machine learning .txt#doc6,question,2,563,1.3863,2.7726
+Machine learning .txt#doc6,think,2,563,1.3863,2.7726
+Machine learning .txt#doc6,replac,1,563,2.0794,2.0794
+Machine learning .txt#doc6,entiti,1,563,1.3863,1.3863
+Machine learning .txt#doc6,modernday,1,563,2.0794,2.0794
+Machine learning .txt#doc6,two,1,563,1.3863,1.3863
+Machine learning .txt#doc6,object,1,563,2.0794,2.0794
+Machine learning .txt#doc6,classifi,3,563,1.3863,4.1589
+Machine learning .txt#doc6,base,2,563,0.9808,1.9617
+Machine learning .txt#doc6,purpos,1,563,1.3863,1.3863
+Machine learning .txt#doc6,make,2,563,0.47,0.94
+Machine learning .txt#doc6,futur,2,563,0.47,0.94
+Machine learning .txt#doc6,outcom,1,563,1.3863,1.3863
+Machine learning .txt#doc6,hypothet,1,563,2.0794,2.0794
+Machine learning .txt#doc6,specif,1,563,2.0794,2.0794
+Machine learning .txt#doc6,may,2,563,0.6931,1.3863
+Machine learning .txt#doc6,mole,2,563,2.0794,4.1589
+Machine learning .txt#doc6,coupl,1,563,2.0794,2.0794
+Machine learning .txt#doc6,supervis,1,563,2.0794,2.0794
+Machine learning .txt#doc6,order,1,563,2.0794,2.0794
+Machine learning .txt#doc6,cancer,1,563,2.0794,2.0794
+Machine learning .txt#doc6,stock,1,563,2.0794,2.0794
+Machine learning .txt#doc6,trade,1,563,2.0794,2.0794
+Machine learning .txt#doc6,inform,1,563,0.47,0.47
+Machine learning .txt#doc6,trader,1,563,2.0794,2.0794
+Machine learning .txt#doc6,potenti,1,563,0.9808,0.9808
+Machine learning .txt#doc6,transform,1,563,0.2877,0.2877
+Machine learning .txt#doc6,machinelearn,1,563,2.0794,2.0794
+Machine learning .txt#doc6,often,1,563,0.2877,0.2877
+Machine learning .txt#doc6,fail,3,563,2.0794,6.2383
+Machine learning .txt#doc6,deliv,2,563,2.0794,4.1589
+Machine learning .txt#doc6,expect,1,563,0.9808,0.9808
+Machine learning .txt#doc6,result,1,563,0.9808,0.9808
+Machine learning .txt#doc6,reason,1,563,2.0794,2.0794
+Machine learning .txt#doc6,numer,1,563,2.0794,2.0794
+Machine learning .txt#doc6,lack,3,563,0.9808,2.9425
+Machine learning .txt#doc6,suitabl,1,563,2.0794,2.0794
+Machine learning .txt#doc6,access,1,563,0.1335,0.1335
+Machine learning .txt#doc6,bia,1,563,2.0794,2.0794
+Machine learning .txt#doc6,privaci,1,563,0.6931,0.6931
+Machine learning .txt#doc6,badli,1,563,2.0794,2.0794
+Machine learning .txt#doc6,chosen,1,563,2.0794,2.0794
+Machine learning .txt#doc6,wrong,1,563,2.0794,2.0794
+Machine learning .txt#doc6,tool,1,563,0.6931,0.6931
+Machine learning .txt#doc6,peopl,1,563,0.6931,0.6931
+Machine learning .txt#doc6,resourc,1,563,0.6931,0.6931
+Machine learning .txt#doc6,evalu,1,563,2.0794,2.0794
+Machine learning .txt#doc6,black,2,563,2.0794,4.1589
+Machine learning .txt#doc6,box,2,563,2.0794,4.1589
+Machine learning .txt#doc6,theori,1,563,2.0794,2.0794
+Machine learning .txt#doc6,pose,1,563,1.3863,1.3863
+Machine learning .txt#doc6,yet,2,563,1.3863,2.7726
+Machine learning .txt#doc6,signific,1,563,0.1335,0.1335
+Machine learning .txt#doc6,challeng,1,563,0.1335,0.1335
+Machine learning .txt#doc6,refer,1,563,0.6931,0.6931
+Machine learning .txt#doc6,situat,1,563,2.0794,2.0794
+Machine learning .txt#doc6,produc,2,563,2.0794,4.1589
+Machine learning .txt#doc6,output,1,563,2.0794,2.0794
+Machine learning .txt#doc6,entir,1,563,2.0794,2.0794
+Machine learning .txt#doc6,opaqu,1,563,2.0794,2.0794
+Machine learning .txt#doc6,mean,1,563,0.9808,0.9808
+Machine learning .txt#doc6,even,2,563,1.3863,2.7726
+Machine learning .txt#doc6,coder,1,563,2.0794,2.0794
+Machine learning .txt#doc6,audit,1,563,2.0794,2.0794
+Machine learning .txt#doc6,extract,1,563,2.0794,2.0794
+Machine learning .txt#doc6,data128,1,563,2.0794,2.0794
+Machine learning .txt#doc6,hous,1,563,1.3863,1.3863
+Machine learning .txt#doc6,lord,1,563,2.0794,2.0794
+Machine learning .txt#doc6,select,1,563,2.0794,2.0794
+Machine learning .txt#doc6,committe,1,563,2.0794,2.0794
+Machine learning .txt#doc6,claim,1,563,2.0794,2.0794
+Machine learning .txt#doc6,could,1,563,0.9808,0.9808
+Machine learning .txt#doc6,substanti,1,563,2.0794,2.0794
+Machine learning .txt#doc6,impact,1,563,0.9808,0.9808
+Machine learning .txt#doc6,individu,1,563,0.6931,0.6931
+Machine learning .txt#doc6,life,1,563,0.9808,0.9808
+Machine learning .txt#doc6,would,1,563,0.9808,0.9808
+Machine learning .txt#doc6,consid,1,563,0.9808,0.9808
+Machine learning .txt#doc6,accept,1,563,2.0794,2.0794
+Machine learning .txt#doc6,unless,1,563,2.0794,2.0794
+Machine learning .txt#doc6,full,1,563,2.0794,2.0794
+Machine learning .txt#doc6,satisfactori,1,563,2.0794,2.0794
+Machine learning .txt#doc6,explan,1,563,2.0794,2.0794
+Machine learning .txt#doc6,2018,1,563,2.0794,2.0794
+Machine learning .txt#doc6,selfdriv,1,563,2.0794,2.0794
+Machine learning .txt#doc6,car,1,563,2.0794,2.0794
+Machine learning .txt#doc6,uber,1,563,2.0794,2.0794
+Machine learning .txt#doc6,detect,1,563,2.0794,2.0794
+Machine learning .txt#doc6,pedestrian,1,563,2.0794,2.0794
+Machine learning .txt#doc6,kill,1,563,2.0794,2.0794
+Machine learning .txt#doc6,collis,1,563,2.0794,2.0794
+Machine learning .txt#doc6,attempt,1,563,2.0794,2.0794
+Machine learning .txt#doc6,healthcar,1,563,0.6931,0.6931
+Machine learning .txt#doc6,watson,1,563,2.0794,2.0794
+Machine learning .txt#doc6,year,1,563,0.2877,0.2877
+Machine learning .txt#doc6,billion,1,563,1.3863,1.3863
+Machine learning .txt#doc6,dollar,1,563,2.0794,2.0794
+Machine learning .txt#doc6,invest,1,563,0.2877,0.2877
+Machine learning .txt#doc6,microsoft,1,563,0.9808,0.9808
+Machine learning .txt#doc6,bing,1,563,2.0794,2.0794
+Machine learning .txt#doc6,chat,1,563,2.0794,2.0794
+Machine learning .txt#doc6,chatbot,1,563,2.0794,2.0794
+Machine learning .txt#doc6,hostil,1,563,2.0794,2.0794
+Machine learning .txt#doc6,offens,1,563,1.3863,1.3863
+Machine learning .txt#doc6,respons,1,563,0.1335,0.1335
+Machine learning .txt#doc6,user,1,563,0.6931,0.6931
+Machine learning .txt#doc6,updat,1,563,1.3863,1.3863
+Machine learning .txt#doc6,evid,1,563,2.0794,2.0794
+Machine learning .txt#doc6,systemat,1,563,2.0794,2.0794
+Machine learning .txt#doc6,review,2,563,2.0794,4.1589
+Machine learning .txt#doc6,increas,1,563,0.47,0.47
+Machine learning .txt#doc6,burden,2,563,1.3863,2.7726
+Machine learning .txt#doc6,growth,1,563,0.2877,0.2877
+Machine learning .txt#doc6,biomed,1,563,2.0794,2.0794
+Machine learning .txt#doc6,literatur,1,563,2.0794,2.0794
+Machine learning .txt#doc6,suffici,1,563,2.0794,2.0794
+Machine learning .txt#doc6,reduc,1,563,0.2877,0.2877
+Machine learning .txt#doc6,workload,1,563,2.0794,2.0794
+Machine learning .txt#doc6,limit,1,563,0.6931,0.6931
+Machine learning .txt#doc6,necessari,1,563,1.3863,1.3863
+Machine learning .txt#doc6,sensit,1,563,1.3863,1.3863
+tax.txt#doc7,tax,25,278,1.3863,34.6574
+tax.txt#doc7,mandatori,1,278,2.0794,2.0794
+tax.txt#doc7,financi,1,278,0.6931,0.6931
+tax.txt#doc7,charg,2,278,2.0794,4.1589
+tax.txt#doc7,levi,3,278,2.0794,6.2383
+tax.txt#doc7,impos,3,278,2.0794,6.2383
+tax.txt#doc7,individu,5,278,0.6931,3.4657
+tax.txt#doc7,legal,1,278,0.9808,0.9808
+tax.txt#doc7,entiti,1,278,1.3863,1.3863
+tax.txt#doc7,government,1,278,1.3863,1.3863
+tax.txt#doc7,organ,1,278,0.2877,0.2877
+tax.txt#doc7,support,1,278,0.47,0.47
+tax.txt#doc7,govern,6,278,0.2877,1.7261
+tax.txt#doc7,spend,1,278,2.0794,2.0794
+tax.txt#doc7,public,4,278,0.2877,1.1507
+tax.txt#doc7,expenditur,2,278,2.0794,4.1589
+tax.txt#doc7,collect,1,278,0.6931,0.6931
+tax.txt#doc7,regul,1,278,0.9808,0.9808
+tax.txt#doc7,reduc,1,278,0.2877,0.2877
+tax.txt#doc7,neg,1,278,2.0794,2.0794
+tax.txt#doc7,extern,1,278,2.0794,2.0794
+tax.txt#doc7,complianc,1,278,2.0794,2.0794
+tax.txt#doc7,refer,1,278,0.6931,0.6931
+tax.txt#doc7,polici,1,278,0.6931,0.6931
+tax.txt#doc7,action,1,278,1.3863,1.3863
+tax.txt#doc7,behavior,1,278,0.9808,0.9808
+tax.txt#doc7,aim,1,278,0.6931,0.6931
+tax.txt#doc7,ensur,1,278,0.47,0.47
+tax.txt#doc7,taxpay,1,278,2.0794,2.0794
+tax.txt#doc7,pay,2,278,2.0794,4.1589
+tax.txt#doc7,right,2,278,0.9808,1.9617
+tax.txt#doc7,amount,2,278,0.9808,1.9617
+tax.txt#doc7,time,1,278,0.6931,0.6931
+tax.txt#doc7,secur,1,278,0.2877,0.2877
+tax.txt#doc7,correct,1,278,1.3863,1.3863
+tax.txt#doc7,allow,2,278,0.47,0.94
+tax.txt#doc7,relief,1,278,2.0794,2.0794
+tax.txt#doc7,first,1,278,0.9808,0.9808
+tax.txt#doc7,known,3,278,0.9808,2.9425
+tax.txt#doc7,taxat,11,278,2.0794,22.8739
+tax.txt#doc7,occur,1,278,2.0794,2.0794
+tax.txt#doc7,ancient,1,278,1.3863,1.3863
+tax.txt#doc7,egypt,1,278,2.0794,2.0794
+tax.txt#doc7,around,1,278,0.6931,0.6931
+tax.txt#doc7,3000–2800,1,278,2.0794,2.0794
+tax.txt#doc7,bc,1,278,2.0794,2.0794
+tax.txt#doc7,consist,1,278,1.3863,1.3863
+tax.txt#doc7,direct,1,278,2.0794,2.0794
+tax.txt#doc7,indirect,1,278,2.0794,2.0794
+tax.txt#doc7,may,1,278,0.6931,0.6931
+tax.txt#doc7,paid,1,278,2.0794,2.0794
+tax.txt#doc7,money,1,278,1.3863,1.3863
+tax.txt#doc7,labor,1,278,2.0794,2.0794
+tax.txt#doc7,equival,1,278,2.0794,2.0794
+tax.txt#doc7,countri,6,278,0.47,2.82
+tax.txt#doc7,system,1,278,0.1335,0.1335
+tax.txt#doc7,place,1,278,2.0794,2.0794
+tax.txt#doc7,common,1,278,0.6931,0.6931
+tax.txt#doc7,societ,1,278,1.3863,1.3863
+tax.txt#doc7,agre,1,278,2.0794,2.0794
+tax.txt#doc7,nation,1,278,0.2877,0.2877
+tax.txt#doc7,need,1,278,0.47,0.47
+tax.txt#doc7,function,3,278,0.9808,2.9425
+tax.txt#doc7,flat,1,278,2.0794,2.0794
+tax.txt#doc7,percentag,1,278,2.0794,2.0794
+tax.txt#doc7,rate,1,278,1.3863,1.3863
+tax.txt#doc7,person,2,278,0.2877,0.5754
+tax.txt#doc7,annual,1,278,1.3863,1.3863
+tax.txt#doc7,incom,7,278,1.3863,9.7041
+tax.txt#doc7,scale,1,278,1.3863,1.3863
+tax.txt#doc7,progress,1,278,0.9808,0.9808
+tax.txt#doc7,base,2,278,0.9808,1.9617
+tax.txt#doc7,bracket,1,278,2.0794,2.0794
+tax.txt#doc7,yearli,1,278,2.0794,2.0794
+tax.txt#doc7,corpor,2,278,0.9808,1.9617
+tax.txt#doc7,subunit,1,278,2.0794,2.0794
+tax.txt#doc7,often,1,278,0.2877,0.2877
+tax.txt#doc7,also,2,278,0.0,0.0
+tax.txt#doc7,wealth,2,278,2.0794,4.1589
+tax.txt#doc7,inherit,1,278,2.0794,2.0794
+tax.txt#doc7,gift,1,278,2.0794,2.0794
+tax.txt#doc7,properti,1,278,2.0794,2.0794
+tax.txt#doc7,sale,1,278,2.0794,2.0794
+tax.txt#doc7,use,2,278,0.0,0.0
+tax.txt#doc7,environment,1,278,0.6931,0.6931
+tax.txt#doc7,payrol,1,278,2.0794,2.0794
+tax.txt#doc7,duti,1,278,2.0794,2.0794
+tax.txt#doc7,tariff,1,278,2.0794,2.0794
+tax.txt#doc7,possibl,1,278,0.9808,0.9808
+tax.txt#doc7,gross,1,278,2.0794,2.0794
+tax.txt#doc7,receipt,1,278,2.0794,2.0794
+tax.txt#doc7,econom,3,278,0.47,1.41
+tax.txt#doc7,term,1,278,1.3863,1.3863
+tax.txt#doc7,circular,1,278,1.3863,1.3863
+tax.txt#doc7,flow,1,278,2.0794,2.0794
+tax.txt#doc7,transfer,1,278,2.0794,2.0794
+tax.txt#doc7,household,1,278,2.0794,2.0794
+tax.txt#doc7,busi,2,278,0.2877,0.5754
+tax.txt#doc7,affect,1,278,0.9808,0.9808
+tax.txt#doc7,growth,1,278,0.2877,0.2877
+tax.txt#doc7,welfar,1,278,2.0794,2.0794
+tax.txt#doc7,increas,1,278,0.47,0.47
+tax.txt#doc7,fiscal,1,278,2.0794,2.0794
+tax.txt#doc7,multipli,1,278,2.0794,2.0794
+tax.txt#doc7,decreas,1,278,2.0794,2.0794
+tax.txt#doc7,excess,1,278,1.3863,1.3863
+tax.txt#doc7,burden,1,278,1.3863,1.3863
+tax.txt#doc7,consequ,1,278,0.9808,0.9808
+tax.txt#doc7,highli,1,278,1.3863,1.3863
+tax.txt#doc7,debat,1,278,2.0794,2.0794
+tax.txt#doc7,topic,1,278,2.0794,2.0794
+tax.txt#doc7,although,1,278,0.6931,0.6931
+tax.txt#doc7,deem,1,278,2.0794,2.0794
+tax.txt#doc7,necessari,1,278,1.3863,1.3863
+tax.txt#doc7,consensu,1,278,2.0794,2.0794
+tax.txt#doc7,societi,1,278,0.47,0.47
+tax.txt#doc7,grow,1,278,0.6931,0.6931
+tax.txt#doc7,orderli,1,278,2.0794,2.0794
+tax.txt#doc7,equit,1,278,0.9808,0.9808
+tax.txt#doc7,manner,1,278,2.0794,2.0794
+tax.txt#doc7,provis,1,278,2.0794,2.0794
+tax.txt#doc7,good,1,278,1.3863,1.3863
+tax.txt#doc7,servic,1,278,0.47,0.47
+tax.txt#doc7,other,1,278,0.6931,0.6931
+tax.txt#doc7,libertarian,1,278,2.0794,2.0794
+tax.txt#doc7,antitax,1,278,2.0794,2.0794
+tax.txt#doc7,denounc,1,278,2.0794,2.0794
+tax.txt#doc7,broadli,1,278,2.0794,2.0794
+tax.txt#doc7,entireti,1,278,2.0794,2.0794
+tax.txt#doc7,classifi,1,278,1.3863,1.3863
+tax.txt#doc7,theft,1,278,1.3863,1.3863
+tax.txt#doc7,extort,1,278,2.0794,2.0794
+tax.txt#doc7,coercion,1,278,2.0794,2.0794
+tax.txt#doc7,along,1,278,1.3863,1.3863
+tax.txt#doc7,forc,2,278,1.3863,2.7726
+tax.txt#doc7,within,2,278,0.6931,1.3863
+tax.txt#doc7,market,3,278,0.9808,2.9425
+tax.txt#doc7,economi,2,278,0.47,0.94
+tax.txt#doc7,consid,1,278,0.9808,0.9808
+tax.txt#doc7,viabl,1,278,2.0794,2.0794
+tax.txt#doc7,option,1,278,2.0794,2.0794
+tax.txt#doc7,oper,1,278,0.47,0.47
+tax.txt#doc7,instead,1,278,2.0794,2.0794
+tax.txt#doc7,widespread,1,278,0.9808,0.9808
+tax.txt#doc7,state,1,278,0.9808,0.9808
+tax.txt#doc7,ownership,1,278,2.0794,2.0794
+tax.txt#doc7,mean,1,278,0.9808,0.9808
+tax.txt#doc7,product,3,278,0.47,1.41
+tax.txt#doc7,enabl,1,278,0.9808,0.9808
+tax.txt#doc7,gener,1,278,0.1335,0.1335
+tax.txt#doc7,revenu,2,278,2.0794,4.1589
+tax.txt#doc7,without,1,278,1.3863,1.3863
+tax.txt#doc7,heavili,1,278,1.3863,1.3863
+tax.txt#doc7,interf,1,278,2.0794,2.0794
+tax.txt#doc7,privat,2,278,1.3863,2.7726
+tax.txt#doc7,preserv,1,278,2.0794,2.0794
+tax.txt#doc7,effici,1,278,0.6931,0.6931
+tax.txt#doc7,sector,1,278,0.6931,0.6931
+tax.txt#doc7,compani,1,278,0.2877,0.2877
+tax.txt#doc7,make,1,278,0.47,0.47
+tax.txt#doc7,decis,1,278,1.3863,1.3863
+tax.txt#doc7,engag,1,278,0.9808,0.9808
+tax.txt#doc7,flexibl,1,278,2.0794,2.0794
+tax.txt#doc7,competit,1,278,1.3863,1.3863
+tax.txt#doc7,innov,1,278,0.1335,0.1335
+tax.txt#doc7,result,3,278,0.9808,2.9425
+tax.txt#doc7,certain,1,278,1.3863,1.3863
+tax.txt#doc7,usual,1,278,2.0794,2.0794
+tax.txt#doc7,small,1,278,0.6931,0.6931
+tax.txt#doc7,size,1,278,2.0794,2.0794
+tax.txt#doc7,popul,1,278,0.6931,0.6931
+tax.txt#doc7,smaller,1,278,1.3863,1.3863
+tax.txt#doc7,infrastructur,1,278,0.47,0.47
+tax.txt#doc7,social,1,278,0.1335,0.1335
+tax.txt#doc7,haven,2,278,2.0794,4.1589
+tax.txt#doc7,minim,1,278,2.0794,2.0794
+tax.txt#doc7,attract,1,278,2.0794,2.0794
+tax.txt#doc7,capit,1,278,2.0794,2.0794
+tax.txt#doc7,abroad,1,278,2.0794,2.0794
+tax.txt#doc7,particularli,1,278,0.47,0.47
+tax.txt#doc7,larger,1,278,1.3863,1.3863
+tax.txt#doc7,loss,1,278,1.3863,1.3863
+tax.txt#doc7,nonhaven,1,278,2.0794,2.0794
+tax.txt#doc7,eros,1,278,1.3863,1.3863
+tax.txt#doc7,profit,1,278,2.0794,2.0794
+tax.txt#doc7,shift,1,278,1.3863,1.3863

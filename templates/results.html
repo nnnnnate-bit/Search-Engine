@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Search Results</h1>
+
+        {% if message %}
+            <div class="alert">{{ message }}</div>
+        {% else %}
+            <h3>Results for "{{ query }}":</h3>
+            <table class="result-table">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Document</th>
+                        <th>Cosine Similarity</th>
+                        <th>View</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for doc, score in results %}
+                        <tr>
+                            <td>{{ loop.index }}</td>
+                            <td>{{ doc }}</td>
+                            <td>{{ "%.4f"|format(score) }}</td>
+                            <td><a href="{{ url_for('view_document', doc_id=doc) }}" target="_blank">View</a></td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% endif %}
+
+        <div class="back-link">
+            <a href="{{ url_for('index') }}">Back to Search</a>
+        </div>
+    </div>
+</body>
+</html>
